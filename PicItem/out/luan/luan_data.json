@@ -1,0 +1,1952 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 279,
+    "CenterY": 199,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 8,
+    "Y": 147,
+    "CenterX": 25,
+    "CenterY": 170,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 15,
+    "Y": 166,
+    "CenterX": 25,
+    "CenterY": 180,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 15,
+    "Y": 194,
+    "CenterX": 23,
+    "CenterY": 205,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 21,
+    "Y": 276,
+    "CenterX": 55,
+    "CenterY": 311,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 26,
+    "Y": 166,
+    "CenterX": 39,
+    "CenterY": 189,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 27,
+    "Y": 195,
+    "CenterX": 35,
+    "CenterY": 206,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 30,
+    "Y": 228,
+    "CenterX": 36,
+    "CenterY": 242,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 31,
+    "Y": 215,
+    "CenterX": 32,
+    "CenterY": 216,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 32,
+    "Y": 252,
+    "CenterX": 52,
+    "CenterY": 269,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 32,
+    "Y": 276,
+    "CenterX": 56,
+    "CenterY": 296,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 33,
+    "Y": 213,
+    "CenterX": 40,
+    "CenterY": 220,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 35,
+    "Y": 156,
+    "CenterX": 38,
+    "CenterY": 161,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 35,
+    "Y": 239,
+    "CenterX": 44,
+    "CenterY": 248,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 38,
+    "Y": 205,
+    "CenterX": 49,
+    "CenterY": 221,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 42,
+    "Y": 149,
+    "CenterX": 45,
+    "CenterY": 157,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 43,
+    "Y": 165,
+    "CenterX": 52,
+    "CenterY": 184,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 44,
+    "Y": 210,
+    "CenterX": 67,
+    "CenterY": 231,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 48,
+    "Y": 134,
+    "CenterX": 65,
+    "CenterY": 149,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 49,
+    "Y": 124,
+    "CenterX": 58,
+    "CenterY": 135,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 49,
+    "Y": 156,
+    "CenterX": 71,
+    "CenterY": 172,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_21.png"
+  },
+  {
+    "Id": "21",
+    "X": 54,
+    "Y": 190,
+    "CenterX": 64,
+    "CenterY": 200,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_22.png"
+  },
+  {
+    "Id": "22",
+    "X": 54,
+    "Y": 247,
+    "CenterX": 68,
+    "CenterY": 258,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_23.png"
+  },
+  {
+    "Id": "23",
+    "X": 62,
+    "Y": 76,
+    "CenterX": 95,
+    "CenterY": 100,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_24.png"
+  },
+  {
+    "Id": "24",
+    "X": 62,
+    "Y": 177,
+    "CenterX": 73,
+    "CenterY": 187,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_25.png"
+  },
+  {
+    "Id": "25",
+    "X": 63,
+    "Y": 198,
+    "CenterX": 76,
+    "CenterY": 205,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_26.png"
+  },
+  {
+    "Id": "26",
+    "X": 64,
+    "Y": 119,
+    "CenterX": 82,
+    "CenterY": 126,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_27.png"
+  },
+  {
+    "Id": "27",
+    "X": 68,
+    "Y": 127,
+    "CenterX": 82,
+    "CenterY": 141,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_28.png"
+  },
+  {
+    "Id": "28",
+    "X": 70,
+    "Y": 255,
+    "CenterX": 79,
+    "CenterY": 270,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_29.png"
+  },
+  {
+    "Id": "29",
+    "X": 72,
+    "Y": 235,
+    "CenterX": 128,
+    "CenterY": 279,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_30.png"
+  },
+  {
+    "Id": "30",
+    "X": 75,
+    "Y": 186,
+    "CenterX": 85,
+    "CenterY": 195,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_31.png"
+  },
+  {
+    "Id": "31",
+    "X": 80,
+    "Y": 316,
+    "CenterX": 81,
+    "CenterY": 317,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_32.png"
+  },
+  {
+    "Id": "32",
+    "X": 83,
+    "Y": 146,
+    "CenterX": 92,
+    "CenterY": 160,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_33.png"
+  },
+  {
+    "Id": "33",
+    "X": 83,
+    "Y": 319,
+    "CenterX": 90,
+    "CenterY": 326,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_34.png"
+  },
+  {
+    "Id": "34",
+    "X": 85,
+    "Y": 206,
+    "CenterX": 93,
+    "CenterY": 211,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_35.png"
+  },
+  {
+    "Id": "35",
+    "X": 85,
+    "Y": 213,
+    "CenterX": 92,
+    "CenterY": 223,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_36.png"
+  },
+  {
+    "Id": "36",
+    "X": 86,
+    "Y": 176,
+    "CenterX": 91,
+    "CenterY": 185,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_37.png"
+  },
+  {
+    "Id": "37",
+    "X": 90,
+    "Y": 196,
+    "CenterX": 100,
+    "CenterY": 203,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_38.png"
+  },
+  {
+    "Id": "38",
+    "X": 90,
+    "Y": 323,
+    "CenterX": 113,
+    "CenterY": 343,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_39.png"
+  },
+  {
+    "Id": "39",
+    "X": 92,
+    "Y": 218,
+    "CenterX": 107,
+    "CenterY": 234,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_40.png"
+  },
+  {
+    "Id": "40",
+    "X": 95,
+    "Y": 168,
+    "CenterX": 108,
+    "CenterY": 184,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_41.png"
+  },
+  {
+    "Id": "41",
+    "X": 96,
+    "Y": 127,
+    "CenterX": 102,
+    "CenterY": 135,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_42.png"
+  },
+  {
+    "Id": "42",
+    "X": 96,
+    "Y": 130,
+    "CenterX": 110,
+    "CenterY": 148,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_43.png"
+  },
+  {
+    "Id": "43",
+    "X": 97,
+    "Y": 299,
+    "CenterX": 116,
+    "CenterY": 311,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_44.png"
+  },
+  {
+    "Id": "44",
+    "X": 98,
+    "Y": 119,
+    "CenterX": 106,
+    "CenterY": 124,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_45.png"
+  },
+  {
+    "Id": "45",
+    "X": 99,
+    "Y": 211,
+    "CenterX": 112,
+    "CenterY": 217,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_46.png"
+  },
+  {
+    "Id": "46",
+    "X": 101,
+    "Y": 98,
+    "CenterX": 114,
+    "CenterY": 109,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_47.png"
+  },
+  {
+    "Id": "47",
+    "X": 102,
+    "Y": 138,
+    "CenterX": 125,
+    "CenterY": 163,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_48.png"
+  },
+  {
+    "Id": "48",
+    "X": 104,
+    "Y": 201,
+    "CenterX": 119,
+    "CenterY": 209,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_49.png"
+  },
+  {
+    "Id": "49",
+    "X": 110,
+    "Y": 121,
+    "CenterX": 122,
+    "CenterY": 129,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_50.png"
+  },
+  {
+    "Id": "50",
+    "X": 112,
+    "Y": 189,
+    "CenterX": 125,
+    "CenterY": 197,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_51.png"
+  },
+  {
+    "Id": "51",
+    "X": 117,
+    "Y": 98,
+    "CenterX": 137,
+    "CenterY": 112,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_52.png"
+  },
+  {
+    "Id": "52",
+    "X": 122,
+    "Y": 225,
+    "CenterX": 130,
+    "CenterY": 236,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_53.png"
+  },
+  {
+    "Id": "53",
+    "X": 123,
+    "Y": 166,
+    "CenterX": 140,
+    "CenterY": 183,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_54.png"
+  },
+  {
+    "Id": "54",
+    "X": 123,
+    "Y": 234,
+    "CenterX": 135,
+    "CenterY": 257,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_55.png"
+  },
+  {
+    "Id": "55",
+    "X": 124,
+    "Y": 126,
+    "CenterX": 142,
+    "CenterY": 145,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_56.png"
+  },
+  {
+    "Id": "56",
+    "X": 124,
+    "Y": 217,
+    "CenterX": 134,
+    "CenterY": 225,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_57.png"
+  },
+  {
+    "Id": "57",
+    "X": 127,
+    "Y": 206,
+    "CenterX": 136,
+    "CenterY": 212,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_58.png"
+  },
+  {
+    "Id": "58",
+    "X": 135,
+    "Y": 201,
+    "CenterX": 140,
+    "CenterY": 204,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_59.png"
+  },
+  {
+    "Id": "59",
+    "X": 135,
+    "Y": 319,
+    "CenterX": 146,
+    "CenterY": 332,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_60.png"
+  },
+  {
+    "Id": "60",
+    "X": 137,
+    "Y": 111,
+    "CenterX": 148,
+    "CenterY": 122,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_61.png"
+  },
+  {
+    "Id": "61",
+    "X": 137,
+    "Y": 337,
+    "CenterX": 147,
+    "CenterY": 348,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_62.png"
+  },
+  {
+    "Id": "62",
+    "X": 138,
+    "Y": 219,
+    "CenterX": 148,
+    "CenterY": 231,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_63.png"
+  },
+  {
+    "Id": "63",
+    "X": 140,
+    "Y": 186,
+    "CenterX": 152,
+    "CenterY": 196,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_64.png"
+  },
+  {
+    "Id": "64",
+    "X": 145,
+    "Y": 245,
+    "CenterX": 162,
+    "CenterY": 262,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_65.png"
+  },
+  {
+    "Id": "65",
+    "X": 146,
+    "Y": 205,
+    "CenterX": 155,
+    "CenterY": 213,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_66.png"
+  },
+  {
+    "Id": "66",
+    "X": 147,
+    "Y": 264,
+    "CenterX": 168,
+    "CenterY": 281,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_67.png"
+  },
+  {
+    "Id": "67",
+    "X": 148,
+    "Y": 156,
+    "CenterX": 161,
+    "CenterY": 171,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_68.png"
+  },
+  {
+    "Id": "68",
+    "X": 148,
+    "Y": 222,
+    "CenterX": 160,
+    "CenterY": 237,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_69.png"
+  },
+  {
+    "Id": "69",
+    "X": 151,
+    "Y": 135,
+    "CenterX": 158,
+    "CenterY": 145,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_70.png"
+  },
+  {
+    "Id": "70",
+    "X": 151,
+    "Y": 299,
+    "CenterX": 160,
+    "CenterY": 309,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_71.png"
+  },
+  {
+    "Id": "71",
+    "X": 153,
+    "Y": 107,
+    "CenterX": 166,
+    "CenterY": 128,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_72.png"
+  },
+  {
+    "Id": "72",
+    "X": 153,
+    "Y": 303,
+    "CenterX": 177,
+    "CenterY": 319,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_73.png"
+  },
+  {
+    "Id": "73",
+    "X": 158,
+    "Y": 179,
+    "CenterX": 166,
+    "CenterY": 192,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_74.png"
+  },
+  {
+    "Id": "74",
+    "X": 160,
+    "Y": 151,
+    "CenterX": 165,
+    "CenterY": 158,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_75.png"
+  },
+  {
+    "Id": "75",
+    "X": 160,
+    "Y": 215,
+    "CenterX": 163,
+    "CenterY": 219,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_76.png"
+  },
+  {
+    "Id": "76",
+    "X": 164,
+    "Y": 205,
+    "CenterX": 166,
+    "CenterY": 208,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_77.png"
+  },
+  {
+    "Id": "77",
+    "X": 165,
+    "Y": 205,
+    "CenterX": 174,
+    "CenterY": 218,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_78.png"
+  },
+  {
+    "Id": "78",
+    "X": 166,
+    "Y": 141,
+    "CenterX": 175,
+    "CenterY": 154,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_79.png"
+  },
+  {
+    "Id": "79",
+    "X": 166,
+    "Y": 223,
+    "CenterX": 167,
+    "CenterY": 224,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_80.png"
+  },
+  {
+    "Id": "80",
+    "X": 168,
+    "Y": 226,
+    "CenterX": 175,
+    "CenterY": 236,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_81.png"
+  },
+  {
+    "Id": "81",
+    "X": 170,
+    "Y": 298,
+    "CenterX": 181,
+    "CenterY": 309,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_82.png"
+  },
+  {
+    "Id": "82",
+    "X": 171,
+    "Y": 168,
+    "CenterX": 221,
+    "CenterY": 221,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_83.png"
+  },
+  {
+    "Id": "83",
+    "X": 172,
+    "Y": 123,
+    "CenterX": 194,
+    "CenterY": 152,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_84.png"
+  },
+  {
+    "Id": "84",
+    "X": 174,
+    "Y": 233,
+    "CenterX": 189,
+    "CenterY": 248,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_85.png"
+  },
+  {
+    "Id": "85",
+    "X": 178,
+    "Y": 107,
+    "CenterX": 195,
+    "CenterY": 123,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_86.png"
+  },
+  {
+    "Id": "86",
+    "X": 179,
+    "Y": 264,
+    "CenterX": 191,
+    "CenterY": 278,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_87.png"
+  },
+  {
+    "Id": "87",
+    "X": 180,
+    "Y": 65,
+    "CenterX": 208,
+    "CenterY": 94,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_88.png"
+  },
+  {
+    "Id": "88",
+    "X": 187,
+    "Y": 294,
+    "CenterX": 189,
+    "CenterY": 296,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_89.png"
+  },
+  {
+    "Id": "89",
+    "X": 190,
+    "Y": 218,
+    "CenterX": 210,
+    "CenterY": 258,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_90.png"
+  },
+  {
+    "Id": "90",
+    "X": 194,
+    "Y": 298,
+    "CenterX": 202,
+    "CenterY": 305,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_91.png"
+  },
+  {
+    "Id": "91",
+    "X": 194,
+    "Y": 328,
+    "CenterX": 214,
+    "CenterY": 338,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_92.png"
+  },
+  {
+    "Id": "92",
+    "X": 196,
+    "Y": 264,
+    "CenterX": 214,
+    "CenterY": 281,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_93.png"
+  },
+  {
+    "Id": "93",
+    "X": 196,
+    "Y": 315,
+    "CenterX": 204,
+    "CenterY": 322,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_94.png"
+  },
+  {
+    "Id": "94",
+    "X": 202,
+    "Y": 295,
+    "CenterX": 219,
+    "CenterY": 311,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_95.png"
+  },
+  {
+    "Id": "95",
+    "X": 212,
+    "Y": 272,
+    "CenterX": 222,
+    "CenterY": 285,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_96.png"
+  },
+  {
+    "Id": "96",
+    "X": 214,
+    "Y": 122,
+    "CenterX": 216,
+    "CenterY": 124,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_97.png"
+  },
+  {
+    "Id": "97",
+    "X": 214,
+    "Y": 128,
+    "CenterX": 222,
+    "CenterY": 147,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_98.png"
+  },
+  {
+    "Id": "98",
+    "X": 215,
+    "Y": 145,
+    "CenterX": 227,
+    "CenterY": 160,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_99.png"
+  },
+  {
+    "Id": "99",
+    "X": 215,
+    "Y": 327,
+    "CenterX": 225,
+    "CenterY": 332,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_100.png"
+  },
+  {
+    "Id": "100",
+    "X": 217,
+    "Y": 108,
+    "CenterX": 232,
+    "CenterY": 125,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_101.png"
+  },
+  {
+    "Id": "101",
+    "X": 219,
+    "Y": 71,
+    "CenterX": 234,
+    "CenterY": 95,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_102.png"
+  },
+  {
+    "Id": "102",
+    "X": 230,
+    "Y": 101,
+    "CenterX": 251,
+    "CenterY": 131,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_103.png"
+  },
+  {
+    "Id": "103",
+    "X": 231,
+    "Y": 211,
+    "CenterX": 252,
+    "CenterY": 233,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_104.png"
+  },
+  {
+    "Id": "104",
+    "X": 231,
+    "Y": 263,
+    "CenterX": 250,
+    "CenterY": 276,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_105.png"
+  },
+  {
+    "Id": "105",
+    "X": 232,
+    "Y": 271,
+    "CenterX": 241,
+    "CenterY": 283,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_106.png"
+  },
+  {
+    "Id": "106",
+    "X": 233,
+    "Y": 289,
+    "CenterX": 248,
+    "CenterY": 308,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_107.png"
+  },
+  {
+    "Id": "107",
+    "X": 234,
+    "Y": 171,
+    "CenterX": 252,
+    "CenterY": 192,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_108.png"
+  },
+  {
+    "Id": "108",
+    "X": 235,
+    "Y": 327,
+    "CenterX": 244,
+    "CenterY": 332,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_109.png"
+  },
+  {
+    "Id": "109",
+    "X": 236,
+    "Y": 173,
+    "CenterX": 237,
+    "CenterY": 174,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_110.png"
+  },
+  {
+    "Id": "110",
+    "X": 237,
+    "Y": 52,
+    "CenterX": 267,
+    "CenterY": 79,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_111.png"
+  },
+  {
+    "Id": "111",
+    "X": 237,
+    "Y": 163,
+    "CenterX": 240,
+    "CenterY": 168,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_112.png"
+  },
+  {
+    "Id": "112",
+    "X": 240,
+    "Y": 137,
+    "CenterX": 252,
+    "CenterY": 154,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_113.png"
+  },
+  {
+    "Id": "113",
+    "X": 243,
+    "Y": 211,
+    "CenterX": 258,
+    "CenterY": 224,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_114.png"
+  },
+  {
+    "Id": "114",
+    "X": 245,
+    "Y": 163,
+    "CenterX": 256,
+    "CenterY": 177,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_115.png"
+  },
+  {
+    "Id": "115",
+    "X": 252,
+    "Y": 282,
+    "CenterX": 260,
+    "CenterY": 295,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_116.png"
+  },
+  {
+    "Id": "116",
+    "X": 255,
+    "Y": 290,
+    "CenterX": 278,
+    "CenterY": 308,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_117.png"
+  },
+  {
+    "Id": "117",
+    "X": 264,
+    "Y": 278,
+    "CenterX": 278,
+    "CenterY": 294,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_118.png"
+  },
+  {
+    "Id": "118",
+    "X": 265,
+    "Y": 124,
+    "CenterX": 304,
+    "CenterY": 157,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_119.png"
+  },
+  {
+    "Id": "119",
+    "X": 265,
+    "Y": 161,
+    "CenterX": 279,
+    "CenterY": 176,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_120.png"
+  },
+  {
+    "Id": "120",
+    "X": 266,
+    "Y": 95,
+    "CenterX": 284,
+    "CenterY": 115,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_121.png"
+  },
+  {
+    "Id": "121",
+    "X": 268,
+    "Y": 191,
+    "CenterX": 280,
+    "CenterY": 203,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_122.png"
+  },
+  {
+    "Id": "122",
+    "X": 268,
+    "Y": 275,
+    "CenterX": 271,
+    "CenterY": 278,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_123.png"
+  },
+  {
+    "Id": "123",
+    "X": 269,
+    "Y": 255,
+    "CenterX": 276,
+    "CenterY": 266,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_124.png"
+  },
+  {
+    "Id": "124",
+    "X": 271,
+    "Y": 188,
+    "CenterX": 305,
+    "CenterY": 258,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_125.png"
+  },
+  {
+    "Id": "125",
+    "X": 272,
+    "Y": 81,
+    "CenterX": 284,
+    "CenterY": 90,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_126.png"
+  },
+  {
+    "Id": "126",
+    "X": 272,
+    "Y": 241,
+    "CenterX": 278,
+    "CenterY": 250,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_127.png"
+  },
+  {
+    "Id": "127",
+    "X": 277,
+    "Y": 260,
+    "CenterX": 287,
+    "CenterY": 274,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_128.png"
+  },
+  {
+    "Id": "128",
+    "X": 297,
+    "Y": 81,
+    "CenterX": 307,
+    "CenterY": 88,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_129.png"
+  },
+  {
+    "Id": "129",
+    "X": 298,
+    "Y": 91,
+    "CenterX": 321,
+    "CenterY": 109,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_130.png"
+  },
+  {
+    "Id": "130",
+    "X": 302,
+    "Y": 327,
+    "CenterX": 319,
+    "CenterY": 336,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_131.png"
+  },
+  {
+    "Id": "131",
+    "X": 304,
+    "Y": 124,
+    "CenterX": 324,
+    "CenterY": 134,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_132.png"
+  },
+  {
+    "Id": "132",
+    "X": 306,
+    "Y": 191,
+    "CenterX": 320,
+    "CenterY": 209,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_133.png"
+  },
+  {
+    "Id": "133",
+    "X": 306,
+    "Y": 232,
+    "CenterX": 315,
+    "CenterY": 257,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_134.png"
+  },
+  {
+    "Id": "134",
+    "X": 310,
+    "Y": 211,
+    "CenterX": 320,
+    "CenterY": 231,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_135.png"
+  },
+  {
+    "Id": "135",
+    "X": 316,
+    "Y": 86,
+    "CenterX": 320,
+    "CenterY": 89,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_136.png"
+  },
+  {
+    "Id": "136",
+    "X": 317,
+    "Y": 18,
+    "CenterX": 342,
+    "CenterY": 54,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_137.png"
+  },
+  {
+    "Id": "137",
+    "X": 320,
+    "Y": 180,
+    "CenterX": 329,
+    "CenterY": 190,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_138.png"
+  },
+  {
+    "Id": "138",
+    "X": 324,
+    "Y": 254,
+    "CenterX": 349,
+    "CenterY": 270,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_139.png"
+  },
+  {
+    "Id": "139",
+    "X": 324,
+    "Y": 285,
+    "CenterX": 334,
+    "CenterY": 304,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_140.png"
+  },
+  {
+    "Id": "140",
+    "X": 325,
+    "Y": 207,
+    "CenterX": 353,
+    "CenterY": 237,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_141.png"
+  },
+  {
+    "Id": "141",
+    "X": 327,
+    "Y": 89,
+    "CenterX": 367,
+    "CenterY": 162,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_142.png"
+  },
+  {
+    "Id": "142",
+    "X": 332,
+    "Y": 201,
+    "CenterX": 336,
+    "CenterY": 205,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_143.png"
+  },
+  {
+    "Id": "143",
+    "X": 334,
+    "Y": 158,
+    "CenterX": 348,
+    "CenterY": 182,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_144.png"
+  },
+  {
+    "Id": "144",
+    "X": 338,
+    "Y": 179,
+    "CenterX": 339,
+    "CenterY": 180,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_145.png"
+  },
+  {
+    "Id": "145",
+    "X": 338,
+    "Y": 326,
+    "CenterX": 339,
+    "CenterY": 327,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_146.png"
+  },
+  {
+    "Id": "146",
+    "X": 339,
+    "Y": 279,
+    "CenterX": 355,
+    "CenterY": 305,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_147.png"
+  },
+  {
+    "Id": "147",
+    "X": 340,
+    "Y": 145,
+    "CenterX": 348,
+    "CenterY": 161,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_148.png"
+  },
+  {
+    "Id": "148",
+    "X": 343,
+    "Y": 128,
+    "CenterX": 351,
+    "CenterY": 141,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_149.png"
+  },
+  {
+    "Id": "149",
+    "X": 344,
+    "Y": 329,
+    "CenterX": 355,
+    "CenterY": 333,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_150.png"
+  },
+  {
+    "Id": "150",
+    "X": 345,
+    "Y": 273,
+    "CenterX": 355,
+    "CenterY": 279,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_151.png"
+  },
+  {
+    "Id": "151",
+    "X": 366,
+    "Y": 268,
+    "CenterX": 389,
+    "CenterY": 300,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_152.png"
+  },
+  {
+    "Id": "152",
+    "X": 366,
+    "Y": 331,
+    "CenterX": 376,
+    "CenterY": 334,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_153.png"
+  },
+  {
+    "Id": "153",
+    "X": 367,
+    "Y": 87,
+    "CenterX": 387,
+    "CenterY": 98,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_154.png"
+  },
+  {
+    "Id": "154",
+    "X": 367,
+    "Y": 334,
+    "CenterX": 393,
+    "CenterY": 342,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_155.png"
+  },
+  {
+    "Id": "155",
+    "X": 368,
+    "Y": 119,
+    "CenterX": 382,
+    "CenterY": 155,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_156.png"
+  },
+  {
+    "Id": "156",
+    "X": 375,
+    "Y": 237,
+    "CenterX": 392,
+    "CenterY": 255,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_157.png"
+  },
+  {
+    "Id": "157",
+    "X": 382,
+    "Y": 180,
+    "CenterX": 397,
+    "CenterY": 211,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_158.png"
+  },
+  {
+    "Id": "158",
+    "X": 386,
+    "Y": 136,
+    "CenterX": 397,
+    "CenterY": 163,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_159.png"
+  },
+  {
+    "Id": "159",
+    "X": 389,
+    "Y": 301,
+    "CenterX": 407,
+    "CenterY": 319,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_160.png"
+  },
+  {
+    "Id": "160",
+    "X": 397,
+    "Y": 135,
+    "CenterX": 407,
+    "CenterY": 157,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_161.png"
+  },
+  {
+    "Id": "161",
+    "X": 405,
+    "Y": 239,
+    "CenterX": 419,
+    "CenterY": 258,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_162.png"
+  },
+  {
+    "Id": "162",
+    "X": 405,
+    "Y": 274,
+    "CenterX": 413,
+    "CenterY": 287,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_163.png"
+  },
+  {
+    "Id": "163",
+    "X": 406,
+    "Y": 87,
+    "CenterX": 425,
+    "CenterY": 98,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_164.png"
+  },
+  {
+    "Id": "164",
+    "X": 406,
+    "Y": 106,
+    "CenterX": 424,
+    "CenterY": 120,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_165.png"
+  },
+  {
+    "Id": "165",
+    "X": 408,
+    "Y": 51,
+    "CenterX": 429,
+    "CenterY": 69,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_166.png"
+  },
+  {
+    "Id": "166",
+    "X": 408,
+    "Y": 133,
+    "CenterX": 424,
+    "CenterY": 153,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_167.png"
+  },
+  {
+    "Id": "167",
+    "X": 409,
+    "Y": 174,
+    "CenterX": 423,
+    "CenterY": 208,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_168.png"
+  },
+  {
+    "Id": "168",
+    "X": 413,
+    "Y": 218,
+    "CenterX": 476,
+    "CenterY": 280,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_169.png"
+  },
+  {
+    "Id": "169",
+    "X": 419,
+    "Y": 170,
+    "CenterX": 430,
+    "CenterY": 185,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_170.png"
+  },
+  {
+    "Id": "170",
+    "X": 422,
+    "Y": 225,
+    "CenterX": 438,
+    "CenterY": 253,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_171.png"
+  },
+  {
+    "Id": "171",
+    "X": 433,
+    "Y": 203,
+    "CenterX": 444,
+    "CenterY": 220,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_172.png"
+  },
+  {
+    "Id": "172",
+    "X": 438,
+    "Y": 170,
+    "CenterX": 454,
+    "CenterY": 192,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_173.png"
+  },
+  {
+    "Id": "173",
+    "X": 441,
+    "Y": 110,
+    "CenterX": 446,
+    "CenterY": 121,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_174.png"
+  },
+  {
+    "Id": "174",
+    "X": 441,
+    "Y": 129,
+    "CenterX": 457,
+    "CenterY": 152,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_175.png"
+  },
+  {
+    "Id": "175",
+    "X": 442,
+    "Y": 88,
+    "CenterX": 451,
+    "CenterY": 108,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_176.png"
+  },
+  {
+    "Id": "176",
+    "X": 446,
+    "Y": 78,
+    "CenterX": 449,
+    "CenterY": 83,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_177.png"
+  },
+  {
+    "Id": "177",
+    "X": 448,
+    "Y": 219,
+    "CenterX": 468,
+    "CenterY": 250,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_178.png"
+  },
+  {
+    "Id": "178",
+    "X": 449,
+    "Y": 51,
+    "CenterX": 486,
+    "CenterY": 86,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_179.png"
+  },
+  {
+    "Id": "179",
+    "X": 449,
+    "Y": 193,
+    "CenterX": 483,
+    "CenterY": 246,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_180.png"
+  },
+  {
+    "Id": "180",
+    "X": 450,
+    "Y": 33,
+    "CenterX": 494,
+    "CenterY": 72,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_181.png"
+  },
+  {
+    "Id": "181",
+    "X": 450,
+    "Y": 76,
+    "CenterX": 462,
+    "CenterY": 83,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_182.png"
+  },
+  {
+    "Id": "182",
+    "X": 451,
+    "Y": 89,
+    "CenterX": 465,
+    "CenterY": 119,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_183.png"
+  },
+  {
+    "Id": "183",
+    "X": 455,
+    "Y": 217,
+    "CenterX": 457,
+    "CenterY": 219,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_184.png"
+  },
+  {
+    "Id": "184",
+    "X": 456,
+    "Y": 175,
+    "CenterX": 470,
+    "CenterY": 197,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_185.png"
+  },
+  {
+    "Id": "185",
+    "X": 472,
+    "Y": 144,
+    "CenterX": 502,
+    "CenterY": 184,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_186.png"
+  },
+  {
+    "Id": "186",
+    "X": 475,
+    "Y": 91,
+    "CenterX": 491,
+    "CenterY": 113,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_187.png"
+  },
+  {
+    "Id": "187",
+    "X": 475,
+    "Y": 139,
+    "CenterX": 478,
+    "CenterY": 143,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_188.png"
+  },
+  {
+    "Id": "188",
+    "X": 479,
+    "Y": 122,
+    "CenterX": 496,
+    "CenterY": 133,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_189.png"
+  },
+  {
+    "Id": "189",
+    "X": 482,
+    "Y": 138,
+    "CenterX": 498,
+    "CenterY": 147,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_190.png"
+  },
+  {
+    "Id": "190",
+    "X": 485,
+    "Y": 185,
+    "CenterX": 502,
+    "CenterY": 207,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_191.png"
+  },
+  {
+    "Id": "191",
+    "X": 509,
+    "Y": 113,
+    "CenterX": 516,
+    "CenterY": 125,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_192.png"
+  },
+  {
+    "Id": "192",
+    "X": 515,
+    "Y": 138,
+    "CenterX": 516,
+    "CenterY": 140,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_193.png"
+  },
+  {
+    "Id": "193",
+    "X": 516,
+    "Y": 139,
+    "CenterX": 530,
+    "CenterY": 178,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_194.png"
+  },
+  {
+    "Id": "194",
+    "X": 517,
+    "Y": 226,
+    "CenterX": 518,
+    "CenterY": 227,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "luan_195.png"
+  }
+]

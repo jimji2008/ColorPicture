@@ -1,0 +1,14 @@
+[
+  {
+    "DataJsonFile": "apple_data.json",
+    "PixleJsonFile": "apple_pixelList.json"
+  },
+  {
+    "DataJsonFile": "banana_data.json",
+    "PixleJsonFile": "banana_pixelList.json"
+  },
+  {
+    "DataJsonFile": "luan_data.json",
+    "PixleJsonFile": "luan_pixelList.json"
+  }
+]

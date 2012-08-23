@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 279,
+    "CenterY": 199,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "apple_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 98,
+    "Y": 76,
+    "CenterX": 248,
+    "CenterY": 196,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "apple_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 120,
+    "Y": 309,
+    "CenterX": 221,
+    "CenterY": 322,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "apple_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 150,
+    "Y": 48,
+    "CenterX": 187,
+    "CenterY": 86,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "apple_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 225,
+    "Y": 63,
+    "CenterX": 244,
+    "CenterY": 107,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "apple_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 259,
+    "Y": 78,
+    "CenterX": 260,
+    "CenterY": 79,
+    "Width": 560,
+    "Height": 400,
+    "BitmapFile": "apple_6.png"
+  }
+]
