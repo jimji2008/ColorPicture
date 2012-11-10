@@ -20,11 +20,13 @@
 @interface PictureLayer : CCLayer
 {
 }
+
+@property (nonatomic,retain) LayerController* layerController;
 @property (nonatomic,retain) Picture* picture;
 
 
 -(ImageItem*)findTouchedSprite:(CGPoint) touchLocation;
--(void) initPicture: (Picture*)_picture;
+-(void) initPicture: (Picture*)_picture layerController: (LayerController*)_controller;
 
 -(void)MoveFromCenterToCenter;
 
@@ -34,4 +36,5 @@
 -(void)MoveFromLeftToCenter;
 -(void)MoveFromRightToCenter;
 
+-(void)MoveByPoints: (int)diffX;
 @end

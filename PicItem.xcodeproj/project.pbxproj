@@ -356,6 +356,8 @@
 		2C845E2E1568D83A008C8B1D /* ImageItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C845E2D1568D83A008C8B1D /* ImageItem.m */; };
 		2C845E481568DDCB008C8B1D /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 2C845E471568DDCB008C8B1D /* data.json */; };
 		4F863529164A994700972046 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F863528164A994700972046 /* libz.dylib */; };
+		4FC196F5164E29AB007C8371 /* close.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4FC196F3164E29AB007C8371 /* close.jpg */; };
+		4FC196F6164E29AB007C8371 /* share.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4FC196F4164E29AB007C8371 /* share.jpg */; };
 		4FEEB7CF164944BA008F406F /* libShareKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FEEB787164943FD008F406F /* libShareKit.a */; };
 		4FEEB7D0164949E6008F406F /* ShareKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4FEEB789164943FD008F406F /* ShareKit.bundle */; };
 		4FEEB7D216494C95008F406F /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FEEB7D116494C95008F406F /* SystemConfiguration.framework */; };
@@ -1106,6 +1108,8 @@
 		2C845E2D1568D83A008C8B1D /* ImageItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageItem.m; sourceTree = "<group>"; };
 		2C845E471568DDCB008C8B1D /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		4F863528164A994700972046 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		4FC196F3164E29AB007C8371 /* close.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = close.jpg; sourceTree = "<group>"; };
+		4FC196F4164E29AB007C8371 /* share.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = share.jpg; sourceTree = "<group>"; };
 		4FEEB75A164943FC008F406F /* ShareKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShareKit.xcodeproj; path = Submodules/ShareKit/ShareKit.xcodeproj; sourceTree = "<group>"; };
 		4FEEB7D116494C95008F406F /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		4FEEB7D316494CA4008F406F /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
@@ -1484,6 +1488,8 @@
 		2C845CCC1568D71A008C8B1D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4FC196F3164E29AB007C8371 /* close.jpg */,
+				4FC196F4164E29AB007C8371 /* share.jpg */,
 				0864B305157A279F006865D0 /* out */,
 				0864AFAF157667EB006865D0 /* ButtonMinus.png */,
 				0864AFB0157667EB006865D0 /* ButtonMinusSel.png */,
@@ -2400,6 +2406,8 @@
 				0864B4BB157A27A0006865D0 /* luan_pixelList.json in Resources */,
 				0864B4BC157A27A0006865D0 /* res.json in Resources */,
 				4FEEB7D0164949E6008F406F /* ShareKit.bundle in Resources */,
+				4FC196F5164E29AB007C8371 /* close.jpg in Resources */,
+				4FC196F6164E29AB007C8371 /* share.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

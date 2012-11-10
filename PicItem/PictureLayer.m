@@ -13,7 +13,7 @@
 // HelloWorldLayer implementation
 @implementation PictureLayer
 @synthesize picture;
-
+@synthesize layerController;
 
 int dx;
 int dy;
@@ -44,8 +44,9 @@ int dy;
 }
 
 // on "init" you need to initialize your instance
--(void) initPicture: (Picture*)_picture{
+-(void) initPicture: (Picture*)_picture layerController: (LayerController*)_controller{
     picture = _picture;
+    layerController = _controller;
     
     //ImageItems = [[NSMutableArray alloc] init];
     
@@ -110,9 +111,19 @@ int dy;
         id action = [CCSpawn actions:fade, move, nil];
         [item.Sprite runAction:action];
     }
-    //self.visible = NO;
+    //self.visible = NO; 
     self.isTouchEnabled = NO;
 }
+
+-(void)MoveByPoints: (int)diffX {
+    for (ImageItem* item in picture.ImageItems) {
+//        id move=[CCMoveBy actionWithDuration:0.01 position:ccp(diffX, 0)];
+//        [item.Sprite runAction:move];
+        item.Sprite.position =ccp(item.Sprite.position.x+diffX, item.Sprite.position.y);
+        
+    }
+}
+
 
 -(void)MoveFromLeftToCenter{
     CGSize size = [[CCDirector sharedDirector] winSize];
@@ -214,13 +225,53 @@ int dy;
     [[CCTouchDispatcher sharedDispatcher]addTargetedDelegate:self priority:0 swallowsTouches:YES];
 }
 
+CGPoint lastMovedLocation;
+CGPoint beganLocation;
+bool isMoved;
 - (BOOL)ccTouchBegan:(UITouch *)touch withEvent:(UIEvent *)event {
+    lastMovedLocation = [touch locationInView: [touch view]];
+    beganLocation = [touch locationInView: [touch view]];
+    isMoved = false;
     return YES;
+}
+
+
+- (void)ccTouchMoved:(UITouch *)touch withEvent:(UIEvent *)event {
+    CGPoint touchLocation = [touch locationInView: [touch view]];
+    int diffX = touchLocation.x-lastMovedLocation.x;
+    NSLog(@"diffX: %i", diffX);
+    lastMovedLocation = touchLocation;
+    if (abs(diffX)<5) {
+        return;
+    }
+    
+    isMoved=true;
+    [self MoveByPoints:diffX];
 }
 
 int i=0;
 -(void)ccTouchEnded:(UITouch *)touch withEvent:(UIEvent *)event{
-    
+    if (isMoved) {
+        //move back or move right/left
+        int movedX = beganLocation.x - lastMovedLocation.x;
+        if (abs(movedX) > 1024/8) {
+            if (movedX>0) {
+                [layerController moveToNext];
+            }
+            else{
+                [layerController moveToPrevious];
+            }
+        }
+        else{
+            //move back
+            for (ImageItem* item in picture.ImageItems) {
+                id move=[CCMoveBy actionWithDuration:0.2 position:ccp(movedX,0)];
+                id action = [CCEaseElasticOut actionWithAction:move period:0.5];
+                [item.Sprite runAction:action];
+            }
+        }
+        return;
+    }
     //    CGPoint location = [self convertTouchToNodeSpace:touch];
     //    //[cocosGuy stopAllActions];
     //    [cocosGuy runAction: [CCMoveTo actionWithDuration:1 position:location]];

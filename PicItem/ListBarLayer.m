@@ -46,21 +46,26 @@
     layerController = _controller;
     
     //
-    CCMenuItem *plusMenuItem = [CCMenuItemImage 
-                                itemFromNormalImage:@"ButtonPlus.png" selectedImage:@"ButtonPlusSel.png" 
-                                target:self selector:@selector(plusButtonTapped:)];
-    plusMenuItem.position = ccp(-40, 100);
-    CCMenuItem *minusMenuItem = [CCMenuItemImage 
-                                 itemFromNormalImage:@"ButtonMinus.png" selectedImage:@"ButtonMinusSel.png" 
-                                 target:self selector:@selector(minusButtonTapped:)];
-    minusMenuItem.position = ccp(40, 100);
-    CCMenuItem *cameraMenuItem = [CCMenuItemImage 
-                                 itemFromNormalImage:@"ButtonMinus.png" selectedImage:@"ButtonMinusSel.png" 
-                                 target:self selector:@selector(cameraButtonTapped:)];
-    cameraMenuItem.position = ccp(80, 100);
-
-    CCMenu *starMenu = [CCMenu menuWithItems:plusMenuItem,minusMenuItem,cameraMenuItem, nil];
-    starMenu.position = ccp(906, 100);
+//    CCMenuItem *plusMenuItem = [CCMenuItemImage 
+//                                itemFromNormalImage:@"ButtonPlus.png" selectedImage:@"ButtonPlusSel.png" 
+//                                target:self selector:@selector(plusButtonTapped:)];
+//    plusMenuItem.position = ccp(0, 50);
+//    CCMenuItem *minusMenuItem = [CCMenuItemImage 
+//                                 itemFromNormalImage:@"ButtonMinus.png" selectedImage:@"ButtonMinusSel.png" 
+//                                 target:self selector:@selector(minusButtonTapped:)];
+//    minusMenuItem.position = ccp(80, 50);
+    CCMenuItem *undoMenuItem = [CCMenuItemImage
+                                  itemFromNormalImage:@"undo.jpeg" selectedImage:@"undo.jpeg"
+                                  target:self selector:@selector(undoButtonTapped:)];
+    undoMenuItem.position = ccp(0, 50);
+    
+    CCMenuItem *cameraMenuItem = [CCMenuItemImage
+                                  itemFromNormalImage:@"camera.jpeg" selectedImage:@"camera.jpeg"
+                                  target:self selector:@selector(cameraButtonTapped:)];
+    cameraMenuItem.position = ccp(160, 50);
+    
+    CCMenu *starMenu = [CCMenu menuWithItems:undoMenuItem,cameraMenuItem, nil];
+    starMenu.position = ccp(800, 0);
     [self addChild:starMenu];
     
 }
@@ -125,14 +130,18 @@
     
 }
 
-- (void)plusButtonTapped:(id)sender {
-    [layerController moveToNext];
-}
-- (void)minusButtonTapped:(id)sender {
-    [layerController moveToPrevious];
-}
+//- (void)plusButtonTapped:(id)sender {
+//    [layerController moveToNext];
+//}
+//- (void)minusButtonTapped:(id)sender {
+//    [layerController moveToPrevious];
+//}
 - (void)cameraButtonTapped:(id)sender {
     [layerController takePhoto];
+}
+
+- (void)undoButtonTapped:(id)sender {
+    [layerController undo];
 }
 
 @end

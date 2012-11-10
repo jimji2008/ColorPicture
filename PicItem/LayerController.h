@@ -30,6 +30,7 @@
 -(void) moveToPrevious;
 -(void) moveToNext;
 -(void) takePhoto;
-
+-(void) undo;
+-(void) closePhotoLayer;
 
 @end

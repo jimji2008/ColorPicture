@@ -10,6 +10,7 @@
 
 @implementation PhotoLayer
 @synthesize picture;
+@synthesize layerController;
 
 // on "init" you need to initialize your instance
 -(id) init{
@@ -19,16 +20,17 @@
         
         //
         CCMenuItem *saveToFacebookMenuItem = [CCMenuItemImage 
-                                    itemFromNormalImage:@"ButtonPlus.png" selectedImage:@"ButtonPlusSel.png" 
+                                    itemFromNormalImage:@"share.jpg" selectedImage:@"share.jpg"
                                     target:self selector:@selector(saveToFacebook:)];
-        saveToFacebookMenuItem.position = ccp(-40, 100);
+        saveToFacebookMenuItem.position = ccp(-40, 50);
+        
         CCMenuItem *saveToMenuItem = [CCMenuItemImage 
-                                     itemFromNormalImage:@"ButtonMinus.png" selectedImage:@"ButtonMinusSel.png" 
-                                     target:self selector:@selector(saveTo:)];
-        saveToMenuItem.position = ccp(40, 100);
+                                     itemFromNormalImage:@"close.jpg" selectedImage:@"close.jpg" 
+                                     target:self selector:@selector(close:)];
+        saveToMenuItem.position = ccp(40, 50);
         
         CCMenu *starMenu = [CCMenu menuWithItems:saveToFacebookMenuItem,saveToMenuItem, nil];
-        starMenu.position = ccp(906, 100);
+        starMenu.position = ccp(800, 0);
         [self addChild:starMenu];
 
         //
@@ -40,8 +42,11 @@
 
 int dx;
 int dy;
--(void) initPicture: (Picture*)_picture{
+//todo: take a photo in picture layer not in this layer.
+// and those seprites in this layer are not deleted when the layer closed.
+-(void) initPicture: (Picture*)_picture layerController: (LayerController*)_controller {
     picture = _picture;
+    layerController = _controller;
 
     CGSize size = [[CCDirector sharedDirector] winSize];
     dx = (size.width-picture.Width)/2;
@@ -54,7 +59,6 @@ int dy;
         NSLog(@"r:%i,g:%i",item.ColorR,item.ColorG);
         [p setColor:ccc3(item.ColorR,item.ColorG,item.ColorB)];  
         [self addChild:p z:1];
-        
         
         //NSLog(@"item: BitmapFile %@, x %f,y %f",item.BitmapFile,p.position.x,item.BitmapFile,p.position.y);
     }
@@ -109,9 +113,17 @@ int dy;
 
 - (void)saveToFacebook:(id)sender {
     NSLog(@"save to facebook");
+    
+    SHKItem *item = [SHKItem image:nil title:@"San Francisco"];
+	SHKActionSheet *actionSheet = [SHKActionSheet actionSheetForItem:item];
+	[actionSheet showInView: [[CCDirector sharedDirector] openGLView]];
+//	[actionSheet showFromToolbar:self.navigationController.toolbar];
 }
 - (void)saveTo:(id)sender {
     NSLog(@"save to ...");
+}
+- (void)close:(id)sender {
+    [layerController closePhotoLayer];
 }
 
 
