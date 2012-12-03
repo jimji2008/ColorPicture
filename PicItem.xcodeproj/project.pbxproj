@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		0864AF75156F0453006865D0 /* pixelList.json in Resources */ = {isa = PBXBuildFile; fileRef = 0864AF74156F0453006865D0 /* pixelList.json */; };
 		0864AF9E1570C17A006865D0 /* listBarBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 0864AF9D1570C17A006865D0 /* listBarBg.png */; };
-		0864AFA61570C9E2006865D0 /* ListBarLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0864AFA51570C9E2006865D0 /* ListBarLayer.m */; };
+		0864AFA61570C9E2006865D0 /* ButtonLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0864AFA51570C9E2006865D0 /* ButtonLayer.m */; };
 		0864B4BF157A2BE1006865D0 /* LayerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0864B4BE157A2BE1006865D0 /* LayerController.m */; };
 		0864B4C2157A3521006865D0 /* PaintModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0864B4C1157A3520006865D0 /* PaintModel.m */; };
 		0864B4C5157A35B8006865D0 /* Picture.m in Sources */ = {isa = PBXBuildFile; fileRef = 0864B4C4157A35B8006865D0 /* Picture.m */; };
@@ -1220,8 +1220,8 @@
 /* Begin PBXFileReference section */
 		0864AF74156F0453006865D0 /* pixelList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pixelList.json; sourceTree = "<group>"; };
 		0864AF9D1570C17A006865D0 /* listBarBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = listBarBg.png; sourceTree = "<group>"; };
-		0864AFA41570C9E2006865D0 /* ListBarLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListBarLayer.h; sourceTree = "<group>"; };
-		0864AFA51570C9E2006865D0 /* ListBarLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListBarLayer.m; sourceTree = "<group>"; };
+		0864AFA41570C9E2006865D0 /* ButtonLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonLayer.h; sourceTree = "<group>"; };
+		0864AFA51570C9E2006865D0 /* ButtonLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonLayer.m; sourceTree = "<group>"; };
 		0864B4BD157A2BE0006865D0 /* LayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LayerController.h; sourceTree = "<group>"; };
 		0864B4BE157A2BE1006865D0 /* LayerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LayerController.m; sourceTree = "<group>"; };
 		0864B4C0157A3520006865D0 /* PaintModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaintModel.h; sourceTree = "<group>"; };
@@ -2342,8 +2342,8 @@
 			children = (
 				2C845E231568D71C008C8B1D /* PictureLayer.h */,
 				2C845E241568D71C008C8B1D /* PictureLayer.m */,
-				0864AFA41570C9E2006865D0 /* ListBarLayer.h */,
-				0864AFA51570C9E2006865D0 /* ListBarLayer.m */,
+				0864AFA41570C9E2006865D0 /* ButtonLayer.h */,
+				0864AFA51570C9E2006865D0 /* ButtonLayer.m */,
 				089FFC891588B68A001D40C2 /* PhotoLayer.h */,
 				089FFC8A1588B68A001D40C2 /* PhotoLayer.m */,
 			);
@@ -4998,7 +4998,7 @@
 				2C845E221568D71C008C8B1D /* RootViewController.m in Sources */,
 				2C845E251568D71C008C8B1D /* PictureLayer.m in Sources */,
 				2C845E2E1568D83A008C8B1D /* ImageItem.m in Sources */,
-				0864AFA61570C9E2006865D0 /* ListBarLayer.m in Sources */,
+				0864AFA61570C9E2006865D0 /* ButtonLayer.m in Sources */,
 				0864B4BF157A2BE1006865D0 /* LayerController.m in Sources */,
 				0864B4C2157A3521006865D0 /* PaintModel.m in Sources */,
 				0864B4C5157A35B8006865D0 /* Picture.m in Sources */,

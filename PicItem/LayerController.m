@@ -11,7 +11,7 @@
 @implementation LayerController
 @synthesize Model;
 @synthesize Scene;
-@synthesize listLayer;
+@synthesize buttonLayer;
 @synthesize photoLayer;
 
 //@synthesize Layers;
@@ -23,10 +23,10 @@
         
         Model = [[PaintModel alloc]init];
         
-        listLayer = [ListBarLayer node];
-        [listLayer init:self];
+        buttonLayer = [ButtonLayer node];
+        [buttonLayer init:self];
         //    ListLayer* l = [ListLayer node];
-        [Scene addChild:listLayer];
+        [Scene addChild:buttonLayer];
         
         for (Picture* picture in Model.Pictures) {
             // 'layer' is an autorelease object.
@@ -64,7 +64,7 @@
     
     ((PictureLayer*)[Model getCurrentPicture].Layer).isTouchEnabled = NO;
     ((PictureLayer*)[Model getCurrentPicture].Layer).visible = NO;
-    listLayer.visible = NO;
+    buttonLayer.visible = NO;
 
     [photoLayer initPicture:[Model getCurrentPicture] layerController:self];
     photoLayer.visible = YES;
@@ -79,7 +79,7 @@
 
     ((PictureLayer*)[Model getCurrentPicture].Layer).isTouchEnabled = YES;
     ((PictureLayer*)[Model getCurrentPicture].Layer).visible = YES;
-    listLayer.visible = YES;
+    buttonLayer.visible = YES;
 }
 
 // on "dealloc" you need to release all your retained objects

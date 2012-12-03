@@ -13,7 +13,7 @@
 
 @class LayerController;
 
-@interface ListBarLayer : CCLayer{
+@interface ButtonLayer : CCLayer{
     
 }
 

@@ -9,9 +9,9 @@
 #import "cocos2d.h"
 #import "JSONKit.h"
 #import "ImageItem.h"
-#import "ListBarLayer.h"
+#import "ButtonLayer.h"
 #import "PictureLayer.h"
-#import "ListBarLayer.h"
+#import "ButtonLayer.h"
 #import "PaintModel.h"
 #import "PhotoLayer.h"
 
@@ -20,7 +20,7 @@
 }
 @property (nonatomic,retain) PaintModel* Model;
 @property (nonatomic,retain) CCScene* Scene;
-@property (nonatomic,retain) ListBarLayer* listLayer;
+@property (nonatomic,retain) ButtonLayer* buttonLayer;
 @property (nonatomic,retain) PhotoLayer* photoLayer;
 //@property (nonatomic,retain) NSMutableArray* Layers;
 // returns a CCScene that contains the HelloWorldLayer as the only child

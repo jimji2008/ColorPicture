@@ -6,9 +6,9 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#import "ListBarLayer.h"
+#import "ButtonLayer.h"
 
-@implementation ListBarLayer
+@implementation ButtonLayer
 @synthesize layerController;
 
 // on "init" you need to initialize your instance

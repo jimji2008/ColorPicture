@@ -11,7 +11,7 @@
 #import "cocos2d.h"
 #import "JSONKit.h"
 #import "ImageItem.h"
-#import "ListBarLayer.h"
+#import "ButtonLayer.h"
 #import "PaintModel.h"
 #import "LayerController.h"
 //#import "ListLayer.h"
