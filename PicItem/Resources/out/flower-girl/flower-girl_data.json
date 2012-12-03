@@ -1,0 +1,532 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 142,
+    "Y": 189,
+    "CenterX": 250,
+    "CenterY": 266,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 187,
+    "Y": 312,
+    "CenterX": 188,
+    "CenterY": 313,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 188,
+    "Y": 310,
+    "CenterX": 190,
+    "CenterY": 311,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 191,
+    "Y": 309,
+    "CenterX": 192,
+    "CenterY": 310,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 206,
+    "Y": 242,
+    "CenterX": 239,
+    "CenterY": 269,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 207,
+    "Y": 318,
+    "CenterX": 310,
+    "CenterY": 376,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 224,
+    "Y": 335,
+    "CenterX": 225,
+    "CenterY": 336,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 225,
+    "Y": 334,
+    "CenterX": 226,
+    "CenterY": 335,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 226,
+    "Y": 333,
+    "CenterX": 227,
+    "CenterY": 334,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 227,
+    "Y": 332,
+    "CenterX": 228,
+    "CenterY": 333,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 243,
+    "Y": 310,
+    "CenterX": 256,
+    "CenterY": 335,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 276,
+    "Y": 383,
+    "CenterX": 287,
+    "CenterY": 396,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 290,
+    "Y": 296,
+    "CenterX": 291,
+    "CenterY": 297,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 292,
+    "Y": 297,
+    "CenterX": 293,
+    "CenterY": 298,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 293,
+    "Y": 298,
+    "CenterX": 294,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 294,
+    "Y": 299,
+    "CenterX": 295,
+    "CenterY": 300,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 296,
+    "Y": 300,
+    "CenterX": 297,
+    "CenterY": 301,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 314,
+    "Y": 245,
+    "CenterX": 315,
+    "CenterY": 246,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 352,
+    "Y": 419,
+    "CenterX": 381,
+    "CenterY": 445,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 358,
+    "Y": 329,
+    "CenterX": 558,
+    "CenterY": 462,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_21.png"
+  },
+  {
+    "Id": "21",
+    "X": 368,
+    "Y": 55,
+    "CenterX": 516,
+    "CenterY": 181,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_22.png"
+  },
+  {
+    "Id": "22",
+    "X": 450,
+    "Y": 223,
+    "CenterX": 461,
+    "CenterY": 237,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_23.png"
+  },
+  {
+    "Id": "23",
+    "X": 452,
+    "Y": 194,
+    "CenterX": 542,
+    "CenterY": 275,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_24.png"
+  },
+  {
+    "Id": "24",
+    "X": 482,
+    "Y": 346,
+    "CenterX": 532,
+    "CenterY": 371,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_25.png"
+  },
+  {
+    "Id": "25",
+    "X": 524,
+    "Y": 229,
+    "CenterX": 531,
+    "CenterY": 235,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_26.png"
+  },
+  {
+    "Id": "26",
+    "X": 528,
+    "Y": 228,
+    "CenterX": 531,
+    "CenterY": 231,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_27.png"
+  },
+  {
+    "Id": "27",
+    "X": 535,
+    "Y": 233,
+    "CenterX": 536,
+    "CenterY": 234,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_28.png"
+  },
+  {
+    "Id": "28",
+    "X": 537,
+    "Y": 236,
+    "CenterX": 538,
+    "CenterY": 237,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_29.png"
+  },
+  {
+    "Id": "29",
+    "X": 537,
+    "Y": 240,
+    "CenterX": 538,
+    "CenterY": 241,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_30.png"
+  },
+  {
+    "Id": "30",
+    "X": 538,
+    "Y": 237,
+    "CenterX": 541,
+    "CenterY": 241,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_31.png"
+  },
+  {
+    "Id": "31",
+    "X": 538,
+    "Y": 241,
+    "CenterX": 539,
+    "CenterY": 242,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_32.png"
+  },
+  {
+    "Id": "32",
+    "X": 538,
+    "Y": 249,
+    "CenterX": 539,
+    "CenterY": 250,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_33.png"
+  },
+  {
+    "Id": "33",
+    "X": 539,
+    "Y": 243,
+    "CenterX": 540,
+    "CenterY": 244,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_34.png"
+  },
+  {
+    "Id": "34",
+    "X": 540,
+    "Y": 245,
+    "CenterX": 541,
+    "CenterY": 246,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_35.png"
+  },
+  {
+    "Id": "35",
+    "X": 541,
+    "Y": 244,
+    "CenterX": 542,
+    "CenterY": 245,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_36.png"
+  },
+  {
+    "Id": "36",
+    "X": 541,
+    "Y": 250,
+    "CenterX": 542,
+    "CenterY": 251,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_37.png"
+  },
+  {
+    "Id": "37",
+    "X": 542,
+    "Y": 246,
+    "CenterX": 543,
+    "CenterY": 249,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_38.png"
+  },
+  {
+    "Id": "38",
+    "X": 543,
+    "Y": 245,
+    "CenterX": 544,
+    "CenterY": 246,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_39.png"
+  },
+  {
+    "Id": "39",
+    "X": 573,
+    "Y": 256,
+    "CenterX": 589,
+    "CenterY": 260,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_40.png"
+  },
+  {
+    "Id": "40",
+    "X": 574,
+    "Y": 259,
+    "CenterX": 575,
+    "CenterY": 260,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_41.png"
+  },
+  {
+    "Id": "41",
+    "X": 578,
+    "Y": 264,
+    "CenterX": 579,
+    "CenterY": 265,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_42.png"
+  },
+  {
+    "Id": "42",
+    "X": 580,
+    "Y": 262,
+    "CenterX": 582,
+    "CenterY": 263,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_43.png"
+  },
+  {
+    "Id": "43",
+    "X": 583,
+    "Y": 261,
+    "CenterX": 586,
+    "CenterY": 262,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_44.png"
+  },
+  {
+    "Id": "44",
+    "X": 590,
+    "Y": 259,
+    "CenterX": 594,
+    "CenterY": 260,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_45.png"
+  },
+  {
+    "Id": "45",
+    "X": 616,
+    "Y": 319,
+    "CenterX": 617,
+    "CenterY": 320,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_46.png"
+  },
+  {
+    "Id": "46",
+    "X": 618,
+    "Y": 232,
+    "CenterX": 641,
+    "CenterY": 277,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_47.png"
+  },
+  {
+    "Id": "47",
+    "X": 626,
+    "Y": 247,
+    "CenterX": 627,
+    "CenterY": 248,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_48.png"
+  },
+  {
+    "Id": "48",
+    "X": 629,
+    "Y": 78,
+    "CenterX": 653,
+    "CenterY": 161,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_49.png"
+  },
+  {
+    "Id": "49",
+    "X": 660,
+    "Y": 76,
+    "CenterX": 661,
+    "CenterY": 77,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_50.png"
+  },
+  {
+    "Id": "50",
+    "X": 661,
+    "Y": 77,
+    "CenterX": 662,
+    "CenterY": 78,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_51.png"
+  },
+  {
+    "Id": "51",
+    "X": 661,
+    "Y": 79,
+    "CenterX": 662,
+    "CenterY": 80,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_52.png"
+  },
+  {
+    "Id": "52",
+    "X": 683,
+    "Y": 485,
+    "CenterX": 710,
+    "CenterY": 540,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "flower-girl_53.png"
+  }
+]

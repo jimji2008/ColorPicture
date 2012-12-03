@@ -1,0 +1,102 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 94,
+    "Y": 96,
+    "CenterX": 120,
+    "CenterY": 124,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 159,
+    "Y": 331,
+    "CenterX": 381,
+    "CenterY": 418,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 228,
+    "Y": 68,
+    "CenterX": 396,
+    "CenterY": 186,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 283,
+    "Y": 192,
+    "CenterX": 392,
+    "CenterY": 275,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 295,
+    "Y": 542,
+    "CenterX": 384,
+    "CenterY": 567,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 321,
+    "Y": 500,
+    "CenterX": 355,
+    "CenterY": 535,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 382,
+    "Y": 499,
+    "CenterX": 415,
+    "CenterY": 534,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 417,
+    "Y": 558,
+    "CenterX": 418,
+    "CenterY": 559,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 478,
+    "Y": 373,
+    "CenterX": 505,
+    "CenterY": 395,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "girl_10.png"
+  }
+]

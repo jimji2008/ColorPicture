@@ -1,0 +1,212 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 110,
+    "Y": 70,
+    "CenterX": 385,
+    "CenterY": 315,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 155,
+    "Y": 76,
+    "CenterX": 386,
+    "CenterY": 130,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 159,
+    "Y": 425,
+    "CenterX": 199,
+    "CenterY": 476,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 167,
+    "Y": 316,
+    "CenterX": 208,
+    "CenterY": 358,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 169,
+    "Y": 214,
+    "CenterX": 211,
+    "CenterY": 252,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 197,
+    "Y": 344,
+    "CenterX": 207,
+    "CenterY": 352,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 283,
+    "Y": 329,
+    "CenterX": 341,
+    "CenterY": 370,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 284,
+    "Y": 430,
+    "CenterX": 342,
+    "CenterY": 478,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 287,
+    "Y": 206,
+    "CenterX": 344,
+    "CenterY": 254,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 419,
+    "Y": 217,
+    "CenterX": 470,
+    "CenterY": 259,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 422,
+    "Y": 439,
+    "CenterX": 468,
+    "CenterY": 483,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 426,
+    "Y": 331,
+    "CenterX": 472,
+    "CenterY": 368,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 460,
+    "Y": 215,
+    "CenterX": 461,
+    "CenterY": 216,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 542,
+    "Y": 216,
+    "CenterX": 590,
+    "CenterY": 260,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 542,
+    "Y": 330,
+    "CenterX": 590,
+    "CenterY": 370,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 543,
+    "Y": 441,
+    "CenterX": 585,
+    "CenterY": 485,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 562,
+    "Y": 487,
+    "CenterX": 586,
+    "CenterY": 499,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 564,
+    "Y": 233,
+    "CenterX": 592,
+    "CenterY": 262,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 565,
+    "Y": 465,
+    "CenterX": 589,
+    "CenterY": 472,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 570,
+    "Y": 362,
+    "CenterX": 595,
+    "CenterY": 372,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "calculator_21.png"
+  }
+]

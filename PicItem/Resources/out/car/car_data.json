@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 53,
+    "Y": 363,
+    "CenterX": 403,
+    "CenterY": 420,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 59,
+    "Y": 19,
+    "CenterX": 408,
+    "CenterY": 207,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 159,
+    "Y": 304,
+    "CenterX": 224,
+    "CenterY": 363,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 183,
+    "Y": 323,
+    "CenterX": 227,
+    "CenterY": 361,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 203,
+    "Y": 36,
+    "CenterX": 336,
+    "CenterY": 119,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 218,
+    "Y": 354,
+    "CenterX": 226,
+    "CenterY": 362,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 487,
+    "Y": 41,
+    "CenterX": 573,
+    "CenterY": 107,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 500,
+    "Y": 279,
+    "CenterX": 571,
+    "CenterY": 346,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 518,
+    "Y": 291,
+    "CenterX": 571,
+    "CenterY": 344,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 563,
+    "Y": 336,
+    "CenterX": 574,
+    "CenterY": 346,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "car_11.png"
+  }
+]

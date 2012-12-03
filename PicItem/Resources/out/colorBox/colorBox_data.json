@@ -1,0 +1,52 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 137,
+    "CenterY": 158,
+    "Width": 276,
+    "Height": 318,
+    "BitmapFile": "colorBox_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 58,
+    "Y": 104,
+    "CenterX": 117,
+    "CenterY": 165,
+    "Width": 276,
+    "Height": 318,
+    "BitmapFile": "colorBox_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 70,
+    "Y": 18,
+    "CenterX": 117,
+    "CenterY": 60,
+    "Width": 276,
+    "Height": 318,
+    "BitmapFile": "colorBox_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 83,
+    "Y": 104,
+    "CenterX": 117,
+    "CenterY": 113,
+    "Width": 276,
+    "Height": 318,
+    "BitmapFile": "colorBox_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 130,
+    "Y": 136,
+    "CenterX": 143,
+    "CenterY": 166,
+    "Width": 276,
+    "Height": 318,
+    "BitmapFile": "colorBox_5.png"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 116,
+    "Y": 270,
+    "CenterX": 117,
+    "CenterY": 272,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 117,
+    "Y": 128,
+    "CenterX": 317,
+    "CenterY": 264,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 118,
+    "Y": 268,
+    "CenterX": 126,
+    "CenterY": 274,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 119,
+    "Y": 267,
+    "CenterX": 120,
+    "CenterY": 268,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 149,
+    "Y": 288,
+    "CenterX": 150,
+    "CenterY": 289,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 150,
+    "Y": 189,
+    "CenterX": 159,
+    "CenterY": 199,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 150,
+    "Y": 287,
+    "CenterX": 151,
+    "CenterY": 288,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 229,
+    "Y": 160,
+    "CenterX": 230,
+    "CenterY": 161,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 243,
+    "Y": 270,
+    "CenterX": 248,
+    "CenterY": 286,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 288,
+    "Y": 257,
+    "CenterX": 296,
+    "CenterY": 272,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 290,
+    "Y": 184,
+    "CenterX": 291,
+    "CenterY": 185,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 291,
+    "Y": 184,
+    "CenterX": 299,
+    "CenterY": 196,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 314,
+    "Y": 217,
+    "CenterX": 329,
+    "CenterY": 238,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 338,
+    "Y": 171,
+    "CenterX": 352,
+    "CenterY": 183,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 378,
+    "Y": 216,
+    "CenterX": 391,
+    "CenterY": 244,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 409,
+    "Y": 279,
+    "CenterX": 417,
+    "CenterY": 292,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 430,
+    "Y": 217,
+    "CenterX": 442,
+    "CenterY": 244,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 469,
+    "Y": 216,
+    "CenterX": 480,
+    "CenterY": 236,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 479,
+    "Y": 304,
+    "CenterX": 480,
+    "CenterY": 308,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 480,
+    "Y": 300,
+    "CenterX": 486,
+    "CenterY": 311,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_21.png"
+  },
+  {
+    "Id": "21",
+    "X": 511,
+    "Y": 227,
+    "CenterX": 512,
+    "CenterY": 228,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_22.png"
+  },
+  {
+    "Id": "22",
+    "X": 511,
+    "Y": 222,
+    "CenterX": 547,
+    "CenterY": 250,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_23.png"
+  },
+  {
+    "Id": "23",
+    "X": 560,
+    "Y": 354,
+    "CenterX": 611,
+    "CenterY": 383,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_24.png"
+  },
+  {
+    "Id": "24",
+    "X": 561,
+    "Y": 265,
+    "CenterX": 562,
+    "CenterY": 266,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_25.png"
+  },
+  {
+    "Id": "25",
+    "X": 563,
+    "Y": 264,
+    "CenterX": 564,
+    "CenterY": 265,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_26.png"
+  },
+  {
+    "Id": "26",
+    "X": 568,
+    "Y": 258,
+    "CenterX": 569,
+    "CenterY": 259,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_27.png"
+  },
+  {
+    "Id": "27",
+    "X": 574,
+    "Y": 253,
+    "CenterX": 575,
+    "CenterY": 254,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_28.png"
+  },
+  {
+    "Id": "28",
+    "X": 583,
+    "Y": 221,
+    "CenterX": 584,
+    "CenterY": 222,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_29.png"
+  },
+  {
+    "Id": "29",
+    "X": 592,
+    "Y": 338,
+    "CenterX": 629,
+    "CenterY": 359,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_30.png"
+  },
+  {
+    "Id": "30",
+    "X": 593,
+    "Y": 262,
+    "CenterX": 632,
+    "CenterY": 297,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_31.png"
+  },
+  {
+    "Id": "31",
+    "X": 595,
+    "Y": 323,
+    "CenterX": 596,
+    "CenterY": 324,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_32.png"
+  },
+  {
+    "Id": "32",
+    "X": 596,
+    "Y": 311,
+    "CenterX": 632,
+    "CenterY": 333,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_33.png"
+  },
+  {
+    "Id": "33",
+    "X": 627,
+    "Y": 292,
+    "CenterX": 628,
+    "CenterY": 293,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_34.png"
+  },
+  {
+    "Id": "34",
+    "X": 628,
+    "Y": 284,
+    "CenterX": 630,
+    "CenterY": 288,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "dog_35.png"
+  }
+]

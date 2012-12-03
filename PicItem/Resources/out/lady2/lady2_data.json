@@ -1,0 +1,362 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 131,
+    "Y": 4,
+    "CenterX": 264,
+    "CenterY": 117,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 153,
+    "Y": 257,
+    "CenterX": 259,
+    "CenterY": 366,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 181,
+    "Y": 225,
+    "CenterX": 245,
+    "CenterY": 244,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 181,
+    "Y": 259,
+    "CenterX": 191,
+    "CenterY": 264,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 195,
+    "Y": 472,
+    "CenterX": 237,
+    "CenterY": 532,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 212,
+    "Y": 250,
+    "CenterX": 259,
+    "CenterY": 258,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 273,
+    "Y": 462,
+    "CenterX": 313,
+    "CenterY": 527,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 348,
+    "Y": 100,
+    "CenterX": 349,
+    "CenterY": 101,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 364,
+    "Y": 4,
+    "CenterX": 365,
+    "CenterY": 5,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 442,
+    "Y": 284,
+    "CenterX": 616,
+    "CenterY": 436,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 501,
+    "Y": 72,
+    "CenterX": 557,
+    "CenterY": 139,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 537,
+    "Y": 7,
+    "CenterX": 583,
+    "CenterY": 76,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 546,
+    "Y": 115,
+    "CenterX": 562,
+    "CenterY": 130,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 568,
+    "Y": 142,
+    "CenterX": 620,
+    "CenterY": 214,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 576,
+    "Y": 100,
+    "CenterX": 577,
+    "CenterY": 101,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 577,
+    "Y": 99,
+    "CenterX": 578,
+    "CenterY": 100,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 578,
+    "Y": 86,
+    "CenterX": 586,
+    "CenterY": 92,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 578,
+    "Y": 143,
+    "CenterX": 584,
+    "CenterY": 148,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 588,
+    "Y": 103,
+    "CenterX": 597,
+    "CenterY": 109,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 588,
+    "Y": 133,
+    "CenterX": 589,
+    "CenterY": 134,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_21.png"
+  },
+  {
+    "Id": "21",
+    "X": 589,
+    "Y": 123,
+    "CenterX": 605,
+    "CenterY": 135,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_22.png"
+  },
+  {
+    "Id": "22",
+    "X": 609,
+    "Y": 181,
+    "CenterX": 639,
+    "CenterY": 194,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_23.png"
+  },
+  {
+    "Id": "23",
+    "X": 628,
+    "Y": 107,
+    "CenterX": 647,
+    "CenterY": 125,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_24.png"
+  },
+  {
+    "Id": "24",
+    "X": 632,
+    "Y": 41,
+    "CenterX": 695,
+    "CenterY": 92,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_25.png"
+  },
+  {
+    "Id": "25",
+    "X": 645,
+    "Y": 184,
+    "CenterX": 646,
+    "CenterY": 185,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_26.png"
+  },
+  {
+    "Id": "26",
+    "X": 659,
+    "Y": 287,
+    "CenterX": 660,
+    "CenterY": 288,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_27.png"
+  },
+  {
+    "Id": "27",
+    "X": 660,
+    "Y": 116,
+    "CenterX": 661,
+    "CenterY": 117,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_28.png"
+  },
+  {
+    "Id": "28",
+    "X": 664,
+    "Y": 113,
+    "CenterX": 665,
+    "CenterY": 114,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_29.png"
+  },
+  {
+    "Id": "29",
+    "X": 665,
+    "Y": 81,
+    "CenterX": 680,
+    "CenterY": 94,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_30.png"
+  },
+  {
+    "Id": "30",
+    "X": 668,
+    "Y": 187,
+    "CenterX": 669,
+    "CenterY": 190,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_31.png"
+  },
+  {
+    "Id": "31",
+    "X": 679,
+    "Y": 81,
+    "CenterX": 680,
+    "CenterY": 82,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_32.png"
+  },
+  {
+    "Id": "32",
+    "X": 680,
+    "Y": 68,
+    "CenterX": 681,
+    "CenterY": 69,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_33.png"
+  },
+  {
+    "Id": "33",
+    "X": 728,
+    "Y": 115,
+    "CenterX": 729,
+    "CenterY": 116,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_34.png"
+  },
+  {
+    "Id": "34",
+    "X": 729,
+    "Y": 116,
+    "CenterX": 731,
+    "CenterY": 117,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_35.png"
+  },
+  {
+    "Id": "35",
+    "X": 732,
+    "Y": 117,
+    "CenterX": 733,
+    "CenterY": 118,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady2_36.png"
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 3,
+    "Y": 320,
+    "CenterX": 384,
+    "CenterY": 456,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 68,
+    "Y": 5,
+    "CenterX": 139,
+    "CenterY": 82,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 145,
+    "Y": 5,
+    "CenterX": 195,
+    "CenterY": 44,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 150,
+    "Y": 10,
+    "CenterX": 151,
+    "CenterY": 11,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 188,
+    "Y": 359,
+    "CenterX": 189,
+    "CenterY": 360,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 195,
+    "Y": 364,
+    "CenterX": 196,
+    "CenterY": 365,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 196,
+    "Y": 365,
+    "CenterX": 237,
+    "CenterY": 416,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 219,
+    "Y": 269,
+    "CenterX": 275,
+    "CenterY": 307,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 230,
+    "Y": 99,
+    "CenterX": 242,
+    "CenterY": 115,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 232,
+    "Y": 125,
+    "CenterX": 258,
+    "CenterY": 143,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 238,
+    "Y": 5,
+    "CenterX": 266,
+    "CenterY": 33,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 246,
+    "Y": 129,
+    "CenterX": 247,
+    "CenterY": 130,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 246,
+    "Y": 297,
+    "CenterX": 247,
+    "CenterY": 298,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 248,
+    "Y": 131,
+    "CenterX": 249,
+    "CenterY": 132,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 249,
+    "Y": 103,
+    "CenterX": 257,
+    "CenterY": 115,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 252,
+    "Y": 140,
+    "CenterX": 253,
+    "CenterY": 141,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 252,
+    "Y": 142,
+    "CenterX": 253,
+    "CenterY": 143,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 252,
+    "Y": 127,
+    "CenterX": 271,
+    "CenterY": 142,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 253,
+    "Y": 138,
+    "CenterX": 254,
+    "CenterY": 139,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 264,
+    "Y": 122,
+    "CenterX": 271,
+    "CenterY": 125,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_21.png"
+  },
+  {
+    "Id": "21",
+    "X": 270,
+    "Y": 144,
+    "CenterX": 271,
+    "CenterY": 145,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_22.png"
+  },
+  {
+    "Id": "22",
+    "X": 271,
+    "Y": 142,
+    "CenterX": 272,
+    "CenterY": 143,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_23.png"
+  },
+  {
+    "Id": "23",
+    "X": 272,
+    "Y": 141,
+    "CenterX": 273,
+    "CenterY": 142,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_24.png"
+  },
+  {
+    "Id": "24",
+    "X": 273,
+    "Y": 140,
+    "CenterX": 274,
+    "CenterY": 141,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_25.png"
+  },
+  {
+    "Id": "25",
+    "X": 278,
+    "Y": 122,
+    "CenterX": 280,
+    "CenterY": 124,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_26.png"
+  },
+  {
+    "Id": "26",
+    "X": 285,
+    "Y": 128,
+    "CenterX": 286,
+    "CenterY": 129,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_27.png"
+  },
+  {
+    "Id": "27",
+    "X": 286,
+    "Y": 129,
+    "CenterX": 287,
+    "CenterY": 130,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_28.png"
+  },
+  {
+    "Id": "28",
+    "X": 288,
+    "Y": 132,
+    "CenterX": 289,
+    "CenterY": 133,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_29.png"
+  },
+  {
+    "Id": "29",
+    "X": 294,
+    "Y": 60,
+    "CenterX": 295,
+    "CenterY": 61,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_30.png"
+  },
+  {
+    "Id": "30",
+    "X": 330,
+    "Y": 5,
+    "CenterX": 334,
+    "CenterY": 10,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_31.png"
+  },
+  {
+    "Id": "31",
+    "X": 347,
+    "Y": 112,
+    "CenterX": 348,
+    "CenterY": 113,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_32.png"
+  },
+  {
+    "Id": "32",
+    "X": 348,
+    "Y": 111,
+    "CenterX": 349,
+    "CenterY": 112,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_33.png"
+  },
+  {
+    "Id": "33",
+    "X": 349,
+    "Y": 104,
+    "CenterX": 352,
+    "CenterY": 108,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_34.png"
+  },
+  {
+    "Id": "34",
+    "X": 354,
+    "Y": 89,
+    "CenterX": 360,
+    "CenterY": 98,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_35.png"
+  },
+  {
+    "Id": "35",
+    "X": 363,
+    "Y": 80,
+    "CenterX": 376,
+    "CenterY": 91,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_36.png"
+  },
+  {
+    "Id": "36",
+    "X": 366,
+    "Y": 88,
+    "CenterX": 367,
+    "CenterY": 89,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_37.png"
+  },
+  {
+    "Id": "37",
+    "X": 371,
+    "Y": 84,
+    "CenterX": 372,
+    "CenterY": 85,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_38.png"
+  },
+  {
+    "Id": "38",
+    "X": 371,
+    "Y": 96,
+    "CenterX": 397,
+    "CenterY": 118,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_39.png"
+  },
+  {
+    "Id": "39",
+    "X": 373,
+    "Y": 83,
+    "CenterX": 374,
+    "CenterY": 84,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_40.png"
+  },
+  {
+    "Id": "40",
+    "X": 377,
+    "Y": 81,
+    "CenterX": 378,
+    "CenterY": 82,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_41.png"
+  },
+  {
+    "Id": "41",
+    "X": 380,
+    "Y": 80,
+    "CenterX": 381,
+    "CenterY": 81,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_42.png"
+  },
+  {
+    "Id": "42",
+    "X": 383,
+    "Y": 92,
+    "CenterX": 388,
+    "CenterY": 95,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_43.png"
+  },
+  {
+    "Id": "43",
+    "X": 384,
+    "Y": 79,
+    "CenterX": 391,
+    "CenterY": 86,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_44.png"
+  },
+  {
+    "Id": "44",
+    "X": 392,
+    "Y": 5,
+    "CenterX": 395,
+    "CenterY": 8,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_45.png"
+  },
+  {
+    "Id": "45",
+    "X": 392,
+    "Y": 97,
+    "CenterX": 393,
+    "CenterY": 98,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_46.png"
+  },
+  {
+    "Id": "46",
+    "X": 393,
+    "Y": 79,
+    "CenterX": 404,
+    "CenterY": 85,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_47.png"
+  },
+  {
+    "Id": "47",
+    "X": 397,
+    "Y": 293,
+    "CenterX": 430,
+    "CenterY": 330,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_48.png"
+  },
+  {
+    "Id": "48",
+    "X": 399,
+    "Y": 359,
+    "CenterX": 400,
+    "CenterY": 360,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_49.png"
+  },
+  {
+    "Id": "49",
+    "X": 412,
+    "Y": 366,
+    "CenterX": 413,
+    "CenterY": 367,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_50.png"
+  },
+  {
+    "Id": "50",
+    "X": 422,
+    "Y": 381,
+    "CenterX": 423,
+    "CenterY": 382,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_51.png"
+  },
+  {
+    "Id": "51",
+    "X": 426,
+    "Y": 284,
+    "CenterX": 458,
+    "CenterY": 331,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_52.png"
+  },
+  {
+    "Id": "52",
+    "X": 429,
+    "Y": 363,
+    "CenterX": 430,
+    "CenterY": 364,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_53.png"
+  },
+  {
+    "Id": "53",
+    "X": 436,
+    "Y": 5,
+    "CenterX": 439,
+    "CenterY": 8,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_54.png"
+  },
+  {
+    "Id": "54",
+    "X": 436,
+    "Y": 295,
+    "CenterX": 473,
+    "CenterY": 337,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_55.png"
+  },
+  {
+    "Id": "55",
+    "X": 440,
+    "Y": 378,
+    "CenterX": 441,
+    "CenterY": 379,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_56.png"
+  },
+  {
+    "Id": "56",
+    "X": 442,
+    "Y": 271,
+    "CenterX": 451,
+    "CenterY": 281,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_57.png"
+  },
+  {
+    "Id": "57",
+    "X": 461,
+    "Y": 374,
+    "CenterX": 462,
+    "CenterY": 375,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_58.png"
+  },
+  {
+    "Id": "58",
+    "X": 468,
+    "Y": 195,
+    "CenterX": 529,
+    "CenterY": 293,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_59.png"
+  },
+  {
+    "Id": "59",
+    "X": 473,
+    "Y": 254,
+    "CenterX": 485,
+    "CenterY": 276,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_60.png"
+  },
+  {
+    "Id": "60",
+    "X": 476,
+    "Y": 18,
+    "CenterX": 477,
+    "CenterY": 19,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_61.png"
+  },
+  {
+    "Id": "61",
+    "X": 482,
+    "Y": 367,
+    "CenterX": 483,
+    "CenterY": 368,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_62.png"
+  },
+  {
+    "Id": "62",
+    "X": 483,
+    "Y": 366,
+    "CenterX": 484,
+    "CenterY": 367,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_63.png"
+  },
+  {
+    "Id": "63",
+    "X": 484,
+    "Y": 365,
+    "CenterX": 485,
+    "CenterY": 366,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_64.png"
+  },
+  {
+    "Id": "64",
+    "X": 492,
+    "Y": 296,
+    "CenterX": 493,
+    "CenterY": 297,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_65.png"
+  },
+  {
+    "Id": "65",
+    "X": 493,
+    "Y": 373,
+    "CenterX": 494,
+    "CenterY": 374,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_66.png"
+  },
+  {
+    "Id": "66",
+    "X": 495,
+    "Y": 297,
+    "CenterX": 496,
+    "CenterY": 298,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_67.png"
+  },
+  {
+    "Id": "67",
+    "X": 495,
+    "Y": 373,
+    "CenterX": 496,
+    "CenterY": 374,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_68.png"
+  },
+  {
+    "Id": "68",
+    "X": 512,
+    "Y": 371,
+    "CenterX": 513,
+    "CenterY": 372,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_69.png"
+  },
+  {
+    "Id": "69",
+    "X": 513,
+    "Y": 370,
+    "CenterX": 514,
+    "CenterY": 371,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_70.png"
+  },
+  {
+    "Id": "70",
+    "X": 514,
+    "Y": 369,
+    "CenterX": 515,
+    "CenterY": 370,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_71.png"
+  },
+  {
+    "Id": "71",
+    "X": 515,
+    "Y": 368,
+    "CenterX": 516,
+    "CenterY": 369,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_72.png"
+  },
+  {
+    "Id": "72",
+    "X": 518,
+    "Y": 383,
+    "CenterX": 519,
+    "CenterY": 384,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_73.png"
+  },
+  {
+    "Id": "73",
+    "X": 526,
+    "Y": 131,
+    "CenterX": 601,
+    "CenterY": 245,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_74.png"
+  },
+  {
+    "Id": "74",
+    "X": 528,
+    "Y": 372,
+    "CenterX": 529,
+    "CenterY": 373,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_75.png"
+  },
+  {
+    "Id": "75",
+    "X": 533,
+    "Y": 371,
+    "CenterX": 534,
+    "CenterY": 372,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_76.png"
+  },
+  {
+    "Id": "76",
+    "X": 534,
+    "Y": 369,
+    "CenterX": 536,
+    "CenterY": 370,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_77.png"
+  },
+  {
+    "Id": "77",
+    "X": 537,
+    "Y": 366,
+    "CenterX": 539,
+    "CenterY": 368,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_78.png"
+  },
+  {
+    "Id": "78",
+    "X": 607,
+    "Y": 347,
+    "CenterX": 608,
+    "CenterY": 348,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_79.png"
+  },
+  {
+    "Id": "79",
+    "X": 608,
+    "Y": 220,
+    "CenterX": 609,
+    "CenterY": 221,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_80.png"
+  },
+  {
+    "Id": "80",
+    "X": 609,
+    "Y": 221,
+    "CenterX": 613,
+    "CenterY": 226,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_81.png"
+  },
+  {
+    "Id": "81",
+    "X": 615,
+    "Y": 294,
+    "CenterX": 616,
+    "CenterY": 295,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_82.png"
+  },
+  {
+    "Id": "82",
+    "X": 616,
+    "Y": 230,
+    "CenterX": 625,
+    "CenterY": 262,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_83.png"
+  },
+  {
+    "Id": "83",
+    "X": 653,
+    "Y": 330,
+    "CenterX": 654,
+    "CenterY": 331,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_84.png"
+  },
+  {
+    "Id": "84",
+    "X": 654,
+    "Y": 329,
+    "CenterX": 655,
+    "CenterY": 330,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_85.png"
+  },
+  {
+    "Id": "85",
+    "X": 685,
+    "Y": 117,
+    "CenterX": 686,
+    "CenterY": 118,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_86.png"
+  },
+  {
+    "Id": "86",
+    "X": 687,
+    "Y": 115,
+    "CenterX": 688,
+    "CenterY": 116,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "lady_87.png"
+  }
+]

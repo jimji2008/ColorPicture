@@ -55,17 +55,22 @@
 //                                 target:self selector:@selector(minusButtonTapped:)];
 //    minusMenuItem.position = ccp(80, 50);
     CCMenuItem *undoMenuItem = [CCMenuItemImage
-                                  itemFromNormalImage:@"undo.jpeg" selectedImage:@"undo.jpeg"
+                                  itemFromNormalImage:@"undo.png" selectedImage:@"undo_sel.png"
                                   target:self selector:@selector(undoButtonTapped:)];
     undoMenuItem.position = ccp(0, 50);
     
     CCMenuItem *cameraMenuItem = [CCMenuItemImage
-                                  itemFromNormalImage:@"camera.jpeg" selectedImage:@"camera.jpeg"
+                                  itemFromNormalImage:@"camera.png" selectedImage:@"camera_sel.png"
                                   target:self selector:@selector(cameraButtonTapped:)];
-    cameraMenuItem.position = ccp(160, 50);
+    cameraMenuItem.position = ccp(120, 50);
     
-    CCMenu *starMenu = [CCMenu menuWithItems:undoMenuItem,cameraMenuItem, nil];
-    starMenu.position = ccp(800, 0);
+    CCMenuItem *listMenuItem = [CCMenuItemImage
+                                  itemFromNormalImage:@"list.png" selectedImage:@"list_sel.png"
+                                  target:self selector:@selector(listButtonTapped:)];
+    listMenuItem.position = ccp(220, 50);
+    
+    CCMenu *starMenu = [CCMenu menuWithItems:undoMenuItem,cameraMenuItem, listMenuItem, nil];
+    starMenu.position = ccp(650, 0);
     [self addChild:starMenu];
     
 }
@@ -141,6 +146,10 @@
 }
 
 - (void)undoButtonTapped:(id)sender {
+    [layerController undo];
+}
+
+- (void)listButtonTapped:(id)sender {
     [layerController undo];
 }
 

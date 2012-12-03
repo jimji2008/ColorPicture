@@ -1,0 +1,82 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 12,
+    "Y": 170,
+    "CenterX": 59,
+    "CenterY": 380,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 53,
+    "Y": 167,
+    "CenterX": 89,
+    "CenterY": 267,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 100,
+    "Y": 167,
+    "CenterX": 157,
+    "CenterY": 379,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 199,
+    "Y": 164,
+    "CenterX": 266,
+    "CenterY": 377,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 300,
+    "Y": 166,
+    "CenterX": 327,
+    "CenterY": 262,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 329,
+    "Y": 167,
+    "CenterX": 559,
+    "CenterY": 379,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 542,
+    "Y": 179,
+    "CenterX": 566,
+    "CenterY": 272,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "gangqi_8.png"
+  }
+]

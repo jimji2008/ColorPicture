@@ -1,0 +1,242 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 98,
+    "Y": 45,
+    "CenterX": 138,
+    "CenterY": 119,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 101,
+    "Y": 45,
+    "CenterX": 102,
+    "CenterY": 46,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 103,
+    "Y": 46,
+    "CenterX": 177,
+    "CenterY": 74,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 157,
+    "Y": 193,
+    "CenterX": 158,
+    "CenterY": 194,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 160,
+    "Y": 85,
+    "CenterX": 368,
+    "CenterY": 247,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 417,
+    "Y": 231,
+    "CenterX": 537,
+    "CenterY": 376,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_7.png"
+  },
+  {
+    "Id": "7",
+    "X": 504,
+    "Y": 408,
+    "CenterX": 505,
+    "CenterY": 409,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_8.png"
+  },
+  {
+    "Id": "8",
+    "X": 506,
+    "Y": 408,
+    "CenterX": 507,
+    "CenterY": 409,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_9.png"
+  },
+  {
+    "Id": "9",
+    "X": 514,
+    "Y": 462,
+    "CenterX": 516,
+    "CenterY": 463,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_10.png"
+  },
+  {
+    "Id": "10",
+    "X": 517,
+    "Y": 461,
+    "CenterX": 518,
+    "CenterY": 462,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_11.png"
+  },
+  {
+    "Id": "11",
+    "X": 563,
+    "Y": 370,
+    "CenterX": 640,
+    "CenterY": 431,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_12.png"
+  },
+  {
+    "Id": "12",
+    "X": 593,
+    "Y": 353,
+    "CenterX": 613,
+    "CenterY": 381,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_13.png"
+  },
+  {
+    "Id": "13",
+    "X": 609,
+    "Y": 352,
+    "CenterX": 610,
+    "CenterY": 353,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_14.png"
+  },
+  {
+    "Id": "14",
+    "X": 613,
+    "Y": 437,
+    "CenterX": 614,
+    "CenterY": 438,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_15.png"
+  },
+  {
+    "Id": "15",
+    "X": 618,
+    "Y": 368,
+    "CenterX": 664,
+    "CenterY": 416,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_16.png"
+  },
+  {
+    "Id": "16",
+    "X": 634,
+    "Y": 294,
+    "CenterX": 637,
+    "CenterY": 297,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_17.png"
+  },
+  {
+    "Id": "17",
+    "X": 638,
+    "Y": 438,
+    "CenterX": 639,
+    "CenterY": 439,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_18.png"
+  },
+  {
+    "Id": "18",
+    "X": 640,
+    "Y": 291,
+    "CenterX": 641,
+    "CenterY": 292,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_19.png"
+  },
+  {
+    "Id": "19",
+    "X": 651,
+    "Y": 264,
+    "CenterX": 654,
+    "CenterY": 265,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_20.png"
+  },
+  {
+    "Id": "20",
+    "X": 662,
+    "Y": 447,
+    "CenterX": 663,
+    "CenterY": 448,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_21.png"
+  },
+  {
+    "Id": "21",
+    "X": 679,
+    "Y": 464,
+    "CenterX": 680,
+    "CenterY": 465,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_22.png"
+  },
+  {
+    "Id": "22",
+    "X": 687,
+    "Y": 446,
+    "CenterX": 718,
+    "CenterY": 479,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_23.png"
+  },
+  {
+    "Id": "23",
+    "X": 713,
+    "Y": 447,
+    "CenterX": 714,
+    "CenterY": 448,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "sword_24.png"
+  }
+]

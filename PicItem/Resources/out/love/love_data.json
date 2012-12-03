@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "0",
+    "X": 0,
+    "Y": 0,
+    "CenterX": 399,
+    "CenterY": 299,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_1.png"
+  },
+  {
+    "Id": "1",
+    "X": 11,
+    "Y": 105,
+    "CenterX": 130,
+    "CenterY": 254,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_2.png"
+  },
+  {
+    "Id": "2",
+    "X": 191,
+    "Y": 71,
+    "CenterX": 289,
+    "CenterY": 161,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_3.png"
+  },
+  {
+    "Id": "3",
+    "X": 237,
+    "Y": 98,
+    "CenterX": 290,
+    "CenterY": 161,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_4.png"
+  },
+  {
+    "Id": "4",
+    "X": 255,
+    "Y": 111,
+    "CenterX": 256,
+    "CenterY": 112,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_5.png"
+  },
+  {
+    "Id": "5",
+    "X": 393,
+    "Y": 155,
+    "CenterX": 490,
+    "CenterY": 293,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_6.png"
+  },
+  {
+    "Id": "6",
+    "X": 541,
+    "Y": 177,
+    "CenterX": 661,
+    "CenterY": 330,
+    "Width": 800,
+    "Height": 600,
+    "BitmapFile": "love_7.png"
+  }
+]

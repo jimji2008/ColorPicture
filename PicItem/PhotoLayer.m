@@ -20,12 +20,12 @@
         
         //
         CCMenuItem *saveToFacebookMenuItem = [CCMenuItemImage 
-                                    itemFromNormalImage:@"share.jpg" selectedImage:@"share.jpg"
+                                    itemFromNormalImage:@"share.png" selectedImage:@"share_sel.png"
                                     target:self selector:@selector(saveToFacebook:)];
         saveToFacebookMenuItem.position = ccp(-40, 50);
         
         CCMenuItem *saveToMenuItem = [CCMenuItemImage 
-                                     itemFromNormalImage:@"close.jpg" selectedImage:@"close.jpg" 
+                                     itemFromNormalImage:@"close.png" selectedImage:@"close_sel.png" 
                                      target:self selector:@selector(close:)];
         saveToMenuItem.position = ccp(40, 50);
         
