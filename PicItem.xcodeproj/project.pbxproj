@@ -133,6 +133,7 @@
 		2C845E2E1568D83A008C8B1D /* ImageItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C845E2D1568D83A008C8B1D /* ImageItem.m */; };
 		2C845E481568DDCB008C8B1D /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 2C845E471568DDCB008C8B1D /* data.json */; };
 		4F863529164A994700972046 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F863528164A994700972046 /* libz.dylib */; };
+		4F8BC28A166CBCD7009BF64F /* ListLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F8BC289166CBCD7009BF64F /* ListLayer.m */; };
 		4FEEB7CF164944BA008F406F /* libShareKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FEEB787164943FD008F406F /* libShareKit.a */; };
 		4FEEB7D0164949E6008F406F /* ShareKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4FEEB789164943FD008F406F /* ShareKit.bundle */; };
 		4FEEB7D216494C95008F406F /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FEEB7D116494C95008F406F /* SystemConfiguration.framework */; };
@@ -1471,6 +1472,8 @@
 		2C845E2D1568D83A008C8B1D /* ImageItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageItem.m; sourceTree = "<group>"; };
 		2C845E471568DDCB008C8B1D /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		4F863528164A994700972046 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		4F8BC288166CBCD7009BF64F /* ListLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListLayer.h; sourceTree = "<group>"; };
+		4F8BC289166CBCD7009BF64F /* ListLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListLayer.m; sourceTree = "<group>"; };
 		4FEEB75A164943FC008F406F /* ShareKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ShareKit.xcodeproj; path = Submodules/ShareKit/ShareKit.xcodeproj; sourceTree = "<group>"; };
 		4FEEB7D116494C95008F406F /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		4FEEB7D316494CA4008F406F /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
@@ -2346,6 +2349,8 @@
 				0864AFA51570C9E2006865D0 /* ButtonLayer.m */,
 				089FFC891588B68A001D40C2 /* PhotoLayer.h */,
 				089FFC8A1588B68A001D40C2 /* PhotoLayer.m */,
+				4F8BC288166CBCD7009BF64F /* ListLayer.h */,
+				4F8BC289166CBCD7009BF64F /* ListLayer.m */,
 			);
 			name = Layer;
 			sourceTree = "<group>";
@@ -5004,6 +5009,7 @@
 				0864B4C5157A35B8006865D0 /* Picture.m in Sources */,
 				0864B4CA157A892C006865D0 /* Resource.m in Sources */,
 				089FFC8B1588B68A001D40C2 /* PhotoLayer.m in Sources */,
+				4F8BC28A166CBCD7009BF64F /* ListLayer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

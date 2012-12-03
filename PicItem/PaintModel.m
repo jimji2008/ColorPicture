@@ -16,6 +16,8 @@ int currentLayerInx = 0;
 int nextLayerInx = 0;
 int previousLayerInx = 0;
 
+NSMutableArray* pictureThumbnails;
+
 -(id) init
 {
 	// always call "super" init
@@ -45,11 +47,17 @@ int previousLayerInx = 0;
             Picture* pic = [[Picture alloc] init:res.DataJsonFile pixleJsonFile:res.PixleJsonFile];
             [Pictures addObject:pic];
         }
+        
+        pictureThumbnails = [NSMutableArray arrayWithCapacity:20];
+        for (int i=0; i<30; i++) {
+            [pictureThumbnails addObject:@"camera.png"];
+        }
+        
+        [self moveNext];
+        [self movePrevious];
+    }
     
-    [self moveNext];
-    [self movePrevious];
-}
-return self;
+    return self;
 }
 
 
@@ -95,6 +103,9 @@ return self;
     }
 }
 
+-(NSArray*)getPictureThumbnailList{
+    
+}
 
 // on "dealloc" you need to release all your retained objects
 - (void) dealloc

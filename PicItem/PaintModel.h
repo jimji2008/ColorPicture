@@ -21,6 +21,8 @@
 -(Picture*)getPreviousPicture;
 -(Picture*)getNextPicture;
 
+-(NSArray*)getPictureThumbnailList;
+
 -(void)movePrevious;
 -(void)moveNext;
 

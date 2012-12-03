@@ -13,6 +13,7 @@
 @synthesize Scene;
 @synthesize buttonLayer;
 @synthesize photoLayer;
+@synthesize listLayer;
 
 //@synthesize Layers;
 
@@ -40,8 +41,13 @@
         photoLayer = [[PhotoLayer alloc]init];
         [Scene addChild: photoLayer];
         
-        [((PictureLayer*)[Model getCurrentPicture].Layer) MoveFromCenterToCenter];
         //
+        listLayer = [ListLayer node];
+        [ListLayer init: [Model getPictureThumbnailList]];
+        [Scene addChild:listLayer];
+        
+        //
+        [((PictureLayer*)[Model getCurrentPicture].Layer) MoveFromCenterToCenter];
     }
     return self;
 }    

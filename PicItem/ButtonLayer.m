@@ -45,15 +45,6 @@
 -(void)init: (LayerController*)_controller{
     layerController = _controller;
     
-    //
-//    CCMenuItem *plusMenuItem = [CCMenuItemImage 
-//                                itemFromNormalImage:@"ButtonPlus.png" selectedImage:@"ButtonPlusSel.png" 
-//                                target:self selector:@selector(plusButtonTapped:)];
-//    plusMenuItem.position = ccp(0, 50);
-//    CCMenuItem *minusMenuItem = [CCMenuItemImage 
-//                                 itemFromNormalImage:@"ButtonMinus.png" selectedImage:@"ButtonMinusSel.png" 
-//                                 target:self selector:@selector(minusButtonTapped:)];
-//    minusMenuItem.position = ccp(80, 50);
     CCMenuItem *undoMenuItem = [CCMenuItemImage
                                   itemFromNormalImage:@"undo.png" selectedImage:@"undo_sel.png"
                                   target:self selector:@selector(undoButtonTapped:)];

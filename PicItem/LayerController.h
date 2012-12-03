@@ -14,6 +14,7 @@
 #import "ButtonLayer.h"
 #import "PaintModel.h"
 #import "PhotoLayer.h"
+#import "ListLayer.h"
 
 @interface LayerController : NSObject{
 
@@ -22,6 +23,7 @@
 @property (nonatomic,retain) CCScene* Scene;
 @property (nonatomic,retain) ButtonLayer* buttonLayer;
 @property (nonatomic,retain) PhotoLayer* photoLayer;
+@property (nonatomic,retain) ListLayer* listLayer;
 //@property (nonatomic,retain) NSMutableArray* Layers;
 // returns a CCScene that contains the HelloWorldLayer as the only child
 //+(CCScene *) scene;
