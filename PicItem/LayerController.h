@@ -34,5 +34,6 @@
 -(void) takePhoto;
 -(void) undo;
 -(void) closePhotoLayer;
+-(void) swithToPictureLayer:(int) pictureInx;
 
 @end

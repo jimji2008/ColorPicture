@@ -13,12 +13,13 @@
 }
 
 // on "init" you need to initialize your instance
--(id) init: (NSMutableArray*)thumbnailList {
+-(id) init: (NSMutableArray*)thumbnailList controller: (LayerController*) controller {
 	// always call "super" init
 	// Apple recommends to re-assign "self" with the "super" return value
 	if( (self=[super init])) {
-        CCMenu *listMenu = [CCMenu node];
-
+        layerController = controller;
+        CCMenu *listMenu = [CCMenu menuWithItems: nil];
+        assert(thumbnailList!=nil);
         for (NSString* thumbnailFile in thumbnailList) {
             CCSprite* p = [CCSprite spriteWithFile:thumbnailFile];
             p.opacity = 0;
@@ -26,9 +27,10 @@
             [self addChild:p z:0];
             
             //
-            CCMenuItem *item = [CCMenuItemImage
-                                                  itemFromNormalImage:thumbnailFile selectedImage:thumbnailFile
-                                                  target:self selector:@selector(saveToFacebook:)];
+            CCMenuItem *item = [CCMenuItemImage itemFromNormalImage:thumbnailFile
+                                                      selectedImage:thumbnailFile
+                                                             target:self
+                                                           selector:@selector(swithToPictureLayer:)];
             item.position = ccp(-40, 50);
             [listMenu addChild:item];
         }
@@ -42,5 +44,11 @@
 	}
 	return self;
 }
+
+- (void)swithToPictureLayer:(id)sender {
+    NSLog(@"swithToPictureLayer");
+    [layerController swithToPictureLayer:1];
+}
+
 
 @end

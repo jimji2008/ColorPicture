@@ -33,7 +33,11 @@ NSMutableArray* pictureThumbnails;
         Pictures=[[NSMutableArray alloc] init];
         ResourceList = [[NSMutableArray alloc] init];
         
+
+        int i=0;
         for (NSDictionary* item in resultsArray) {
+            if(i++>1)break;
+            
             //NSDictionary* dic = [item objectFromJSONString];
             Resource* res = [[[Resource alloc] init]autorelease];
             res.DataJsonFile = [item objectForKey:@"DataJsonFile"];
@@ -103,8 +107,8 @@ NSMutableArray* pictureThumbnails;
     }
 }
 
--(NSArray*)getPictureThumbnailList{
-    
+-(NSMutableArray*)getPictureThumbnailList{
+    return pictureThumbnails;
 }
 
 // on "dealloc" you need to release all your retained objects

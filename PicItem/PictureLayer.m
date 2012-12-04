@@ -64,7 +64,7 @@ int dy;
 }
 
 
--(void)MoveFromCenterToCenter{
+-(void)MoveFromFrontToCenter{
     CGSize size = [[CCDirector sharedDirector] winSize];
     dx = (size.width-picture.Width)/2;
     dy = (size.height-picture.Height)/2;
@@ -170,8 +170,8 @@ int dy;
     }
     self.visible = YES;
     self.isTouchEnabled = YES;
-
 }
+
 -(void)MoveFromRightToCenter{
     CGSize size = [[CCDirector sharedDirector] winSize];
     dx = (size.width-picture.Width)/2;
@@ -219,6 +219,65 @@ int dy;
     self.isTouchEnabled = YES;
 }
 
+
+-(void)MoveFromCenterToBack: (CGPoint) toPoint{
+    for (ImageItem* item in picture.ImageItems) {
+        id fade=[CCFadeOut actionWithDuration:1.0];
+        id move=[CCMoveTo actionWithDuration:0.2 position:ccp(1024*1.5,item.Sprite.position.y)];
+        id action = [CCSpawn actions:fade, move, nil];
+        [item.Sprite runAction:action];
+    }
+    //self.visible = NO;
+    self.isTouchEnabled = NO;
+
+    
+    
+    
+    CGSize size = [[CCDirector sharedDirector] winSize];
+    dx = (size.width-picture.Width)/2;
+    dy = (size.height-picture.Height)/2;
+    
+    //    int j=0;
+    double maxDelay=0.5;
+    //    double time = 0.2;
+    double actionDuration = 0.3;
+    double fromScale = 3.5;
+    double paperMoveDuration = 0.2;
+    
+    ImageItem* paper  =(ImageItem*)[picture.ImageItems objectAtIndex:0];
+    for (ImageItem* item in picture.ImageItems) {
+        if (item == paper) {
+            //move paper
+            paper.Sprite.position = ccp(1024*1.5, paper.CenterY+dy);
+            id fade=[CCFadeIn actionWithDuration:actionDuration];
+            id move=[CCScaleTo actionWithDuration:actionDuration scale:1];
+            id sequence = [CCSpawn actions:fade, move, nil];
+            [self reorderChild:item.Sprite z:0];
+            
+            [item.Sprite runAction:sequence];
+            
+            [paper.Sprite runAction:[CCMoveTo actionWithDuration:paperMoveDuration position:ccp(paper.CenterX+dx, paper.CenterY+dy)]];
+            NSLog(@"x: %f, y: %f",paper.Sprite.position.x, paper.Sprite.position.y);
+        }
+        
+        item.Sprite.position = ccp(item.CenterX+dx, item.CenterY+dy);
+        item.Sprite.scale = fromScale;
+        
+        id delay = [CCDelayTime actionWithDuration:paperMoveDuration + maxDelay/picture.ImageItems.count*item.IndexInPicture];
+        
+        id fade=[CCFadeIn actionWithDuration:actionDuration];
+        id scale=[CCScaleTo actionWithDuration:actionDuration scale:1];
+        id sequence = [CCSequence actions: delay,
+                       [CCSpawn actions:fade, scale, nil]
+                       , nil, nil];
+        [self reorderChild:item.Sprite z:item.IndexInPicture+10];
+        
+        [item.Sprite runAction:sequence];
+        NSLog(@"x: %f, y: %f",item.Sprite.position.x, item.Sprite.position.y);
+    }
+    self.visible = YES;
+    self.isTouchEnabled = YES;
+}
 
 
 -(void)registerWithTouchDispatcher{

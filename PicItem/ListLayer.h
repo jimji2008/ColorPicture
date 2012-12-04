@@ -9,10 +9,13 @@
 #import "CCLayer.h"
 #import "cocos2d.h"
 
+@class LayerController;
+
 @interface ListLayer : CCLayer{
-    
+    @private
+    LayerController* layerController;
 }
 
--(id) init: (NSMutableArray*)thumbnailList;
+-(id) init: (NSMutableArray*)thumbnailList controller: (LayerController*) layerController;
 
 @end

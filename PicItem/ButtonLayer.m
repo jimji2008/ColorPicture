@@ -141,7 +141,7 @@
 }
 
 - (void)listButtonTapped:(id)sender {
-    [layerController undo];
+    [layerController swithToList:1];
 }
 
 @end

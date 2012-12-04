@@ -28,7 +28,7 @@
 -(ImageItem*)findTouchedSprite:(CGPoint) touchLocation;
 -(void) initPicture: (Picture*)_picture layerController: (LayerController*)_controller;
 
--(void)MoveFromCenterToCenter;
+-(void)MoveFromFrontToCenter;
 
 -(void)MoveFromCenterToLeft;
 -(void)MoveFromCenterToRight;

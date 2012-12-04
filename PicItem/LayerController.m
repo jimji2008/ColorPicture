@@ -43,11 +43,11 @@
         
         //
         listLayer = [ListLayer node];
-        [ListLayer init: [Model getPictureThumbnailList]];
+        [listLayer init: [Model getPictureThumbnailList] controller:self];
         [Scene addChild:listLayer];
         
         //
-        [((PictureLayer*)[Model getCurrentPicture].Layer) MoveFromCenterToCenter];
+        [((PictureLayer*)[Model getCurrentPicture].Layer) MoveFromFrontToCenter];
     }
     return self;
 }    
@@ -88,6 +88,19 @@
     buttonLayer.visible = YES;
 }
 
+
+-(void) swithToPictureLayer:(int) pictureInx {
+    NSLog(@"controller.swithToPictureLayer.");
+}
+
+-(void) swithToList:(int) pictureInx {
+    NSLog(@"controller.swithToList.");
+    
+    [((PictureLayer*)[Model getCurrentPicture].Layer) MoveFromCenterToRight];
+
+}
+
+
 // on "dealloc" you need to release all your retained objects
 - (void) dealloc
 {
@@ -99,5 +112,4 @@
 	// don't forget to call "super dealloc"
 	[super dealloc];
 }
-
 @end
